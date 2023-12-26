@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10432855.svg)](https://doi.org/10.5281/zenodo.10432855)
 
 # sorafenib model
 This repository provides the sorafenib physiologically based pharmacokinetics (PBPK) model.
@@ -20,11 +20,11 @@ The whole-body submodel is available from [`sorafenib_body.xml`](./models/sorafe
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/sorafenib-model/main/models/sorafenib_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/sorafenib-model/main/models/sorafenib_body.xml) and equations from [`sorafenib_body.md`](./models/sorafenib_body.md).
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10432855.svg)](https://doi.org/10.5281/zenodo.10432855)
 
 > Okibedi Frances, & König, Matthias. (2023). 
 > *Physiologically based pharmacokinetic (PBPK) model of sorafenib.*   
-> Zenodo. [https://doi.org/10.5281/zenodo.8150138](https://doi.org/10.5281/zenodo.8150138)
+> Zenodo. [https://doi.org/10.5281/zenodo.10432855](https://doi.org/10.5281/zenodo.10432855)
 
 ## License
 
