@@ -1,8 +1,7 @@
-.idea
 .venv
 .idea
 *.pyc
 __pycache__
 results/
-src/pkdb_models/models/sorafenib/results/
-src/pkdb_models/models/sorafenib/models/results/sorafenib_model.omex
+src/pkdb_models/models/losartan/results/
+src/pkdb_models/models/losartan/models/results/losartan_model.omex

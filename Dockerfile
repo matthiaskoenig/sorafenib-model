@@ -1,7 +1,7 @@
 # Dockerfile for sorafenib
 # -----------------------
 # Build and push image
-#   docker build -f Dockerfile -t matthiaskoenig/sorafenib:0.8.0 -t matthiaskoenig/sorafenib:latest .
+#   docker build -f Dockerfile -t matthiaskoenig/sorafenib:0.9.2 -t matthiaskoenig/sorafenib:latest .
 #   docker login
 #   docker push --all-tags matthiaskoenig/sorafenib
 

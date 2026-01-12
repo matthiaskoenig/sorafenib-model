@@ -39,6 +39,12 @@ creators = [
         organization="Humboldt-University Berlin, Institute for Theoretical Biology",
     ),
     Creator(
+        familyName="Myshkina",
+        givenName="Mariia",
+        email="mariia.myshkina@hu-berlin.de",
+        organization="Humboldt-Universität zu Berlin, Faculty of Life Sciences, Department of Biology, Institute of Theoretical Biology, Systems Medicine of the Liver",
+    ),
+    Creator(
         familyName="König",
         givenName="Matthias",
         email="koenigmx@hu-berlin.de",

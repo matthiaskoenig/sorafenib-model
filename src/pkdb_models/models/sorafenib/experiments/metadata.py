@@ -9,69 +9,59 @@ class Tissue(str, Enum):
     SERUM = "serum"
     URINE = "urine"
     FECES = "feces"
-    NONE = "none"  # no tissue
+    BILE = "bile"
 
 
 class Route(str, Enum):
     PO = "po"
     IV = "iv"
+    SL = "sl"
 
 
 class Dosing(str, Enum):
     SINGLE = "single"
     MULTIPLE = "multiple"
-    CONSTANT_INFUSION = "infusion"
-
-
-class ApplicationForm(str, Enum):
-    TABLET = "tablet"
-    SOLUTION = "solution"
-    CAPSULE = "capsule"
-    MIXED = "mixed"  # mix of forms, e.g. po and iv
-    NR = "not reported"
 
 
 class Health(str, Enum):
+    NR = "not reported"
     HEALTHY = "healthy"
-    T2DM = "type 2 diabetes mellitus"
-    HYPERTENSION = "hypertension"
-    CIRRHOSIS = "cirrhosis"
     RENAL_IMPAIRMENT = "renal impairment"
-    HEPATIC_IMPAIRMENT = "hepatic impairment"
-    CHF = "congestive heart failure"
-    T2DM_RENAL_IMPAIRMENT = "T2DM & renal impairment"
+    CARDIAC_IMPAIRMENT = "cardiac impairment"
+    LIVER_IMPAIRMENT = "liver impairment"
 
 
 class Fasting(str, Enum):
     NR = "not reported"
-    FASTED = "fasted"
-    FED = "fed"
+    FASTING = "fasting"
+    NONFASTING = "nonfasting"
+    LIGHT_BR = "light breakfast"
+
+class PKPDData(str, Enum):
+    PK = "pk"
+    PD = "pd"
 
 
 @dataclass
 class SorafenibMappingMetaData(MappingMetaData):
     """Metadata for fitting experiment."""
+
     tissue: Tissue
     route: Route
-    application_form: ApplicationForm
     dosing: Dosing
     health: Health
     fasting: Fasting
-    coadministration: Coadministration = Coadministration.NONE
-    genotype: Genotype = Genotype.NR
+    data: PKPDData
     outlier: bool = False
 
-
     def to_dict(self):
+        """Convert to dictionary."""
         return {
             "tissue": self.tissue.name,
             "route": self.route.name,
-            "application_form": self.application_form.name,
             "dosing": self.dosing.name,
             "health": self.health.name,
             "fasting": self.fasting.name,
-            "coadministration": self.coadministration.name,
-            "genotype": self.genotype.name,
+            "data": self.data.name,
             "outlier": self.outlier,
         }
-
