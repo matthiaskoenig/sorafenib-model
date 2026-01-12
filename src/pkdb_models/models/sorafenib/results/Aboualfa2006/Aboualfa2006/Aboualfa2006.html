@@ -137,6 +137,34 @@ class Aboualfa2006(SorafenibSimulationExperiment):
 
         return tcsims
 
+    # def fit_mappings(self) -> Dict[str, FitMapping]:
+    #     mappings = {}
+    #
+    #     for label, key in zip(["CPT_A", "CPT_B"], ["Mild cirrhosis", "Moderate cirrhosis"]):
+    #       mappings[f"fm_sor_po400{key}"] = FitMapping(
+    #         self,
+    #         reference=FitData(
+    #             self,
+    #             dataset=f"SOF400",
+    #             xid="time",
+    #             yid="mean",
+    #             yid_sd=None,
+    #             count="count",
+    #         ),
+    #         observable=FitData(
+    #             self, task=f"task_sor_po400_{key}", xid="time", yid="[Cve_sor]",
+    #         ),
+    #           # metadata=SorafenibMappingMetaData(
+    #           #     tissue=Tissue.PLASMA,
+    #           #     route=Route.PO,
+    #           #     dosing=Dosing.MULTIPLE,
+    #           #     health=Health.LIVER_IMPAIRMENT,
+    #           #     fasting=Fasting.FASTING,
+    #           #     data=PKPDData.PK
+    #           # ),
+    #     )
+    #     return mappings
+
     def figures(self) -> Dict[str, Figure]:
         name = "Fig5"
         fig = Figure(

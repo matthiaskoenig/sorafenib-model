@@ -1,7 +1,7 @@
 {
   "experiment_id": "Aboualfa2006",
-  "base_path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib",
-  "data_path": "[PosixPath('/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/data/sorafenib')]",
+  "base_path": "/home/mariia/git/sorafenib-model/src/pkdb_models/models/sorafenib",
+  "data_path": "[PosixPath('/home/mariia/git/sorafenib-model/src/pkdb_models/models/sorafenib/data/sorafenib')]",
   "models": {
     "model": {
       "sid": null,
@@ -9,8 +9,8 @@
       "language": "SBML",
       "language_type": "SBML",
       "source": {
-        "source": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
-        "path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "source": "/home/mariia/git/sorafenib-model/src/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "path": "/home/mariia/git/sorafenib-model/src/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
         "content": "None"
       },
       "changes": {}
