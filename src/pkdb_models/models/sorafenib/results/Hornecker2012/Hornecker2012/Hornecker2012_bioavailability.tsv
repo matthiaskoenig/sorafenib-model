@@ -1,0 +1,6 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	mean_sd	mean_se	wlow	q25	median	q75	wup	dose	dose_unit	comments	mean_unit	median_unit
+Hornecker2012		SOF400	88.0	SOF400	bioavailability	sorafenib 	plasma	LC MS/MS						0.2641716	0.4388498	0.50354713	0.56436104	0.6342306	400.0	mg		dimensionless	dimensionless
+Hornecker2012		SOF800	187.0	SOF800	bioavailability	sorafenib	plasma	LC MS/MS						0.13759339	0.27216032	0.31615505	0.36791494	0.4960055	800.0	mg		dimensionless	dimensionless
+Hornecker2012		SOF1200	35.0	SOF1200	bioavailability	sorafenib	plasma	LC MS/MS						0.17405158	0.20769331	0.25297856	0.30214894	0.39142722	1200.0	mg		dimensionless	dimensionless
+Hornecker2012		SOF1600	38.0	SOF1600	bioavailability	sorafenib	plasma	LC MS/MS						0.0992282	0.1509864	0.20533073	0.24156198	0.290729	1600.0	mg		dimensionless	dimensionless
+Hornecker2012		SOF2000	24.0	SOF2000	bioavailability	sorafenib	plasma	LC MS/MS						0.07228298	0.11239088	0.14086035	0.19520469	0.2482534	2000.0	mg	Either 2000 or 2400 mg	dimensionless	dimensionless

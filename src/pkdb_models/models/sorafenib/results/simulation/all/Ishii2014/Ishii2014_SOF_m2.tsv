@@ -1,0 +1,8 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	mean_sd	comments	mean_unit
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	0.02073818	hour	2.9597730075901326e-05				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	2.2604616	hour	0.0009755867172675521				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	5.9933343	hour	0.0009437122390891839				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	24.254044	hour	0.0005316207779886146				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	26.27009	hour	0.001641535673624288				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	30.212566	hour	0.0022739025142314985				mole/meter^3
+Ishii2014	SOF_200		1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	48.45698	hour	0.000734820588235294				mole/meter^3

@@ -1,0 +1,7 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	geomean	median	sd	se	min	max	cv	cvunit	unit	comments
+Aboualfa2006	NA	CPT_A	14.0	SOF400	auc_end	sorafenib	plasma	LC MS/MS	NA	8.0	hr	NA	NA	25.4	NA	NA	NA	NA	NA	0.384	dimensionless	mg*hr/L	NA
+Aboualfa2006	NA	CPT_A	14.0	SOF400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.9	NA	NA	NA	NA	NA	0.387	dimensionless	mg/L	NA
+Aboualfa2006	NA	CPT_A	14.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	1.0	NA	NA	0.0	12.0	NA	NA	hr	NA
+Aboualfa2006	NA	CPT_B	8.0	SOF400	auc_end	sorafenib	plasma	LC MS/MS	NA	8.0	hr	NA	NA	30.3	NA	NA	NA	NA	NA	0.821	dimensionless	mg*hr/L	NA
+Aboualfa2006	NA	CPT_B	8.0	SOF400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	6.0	NA	NA	NA	NA	NA	0.738	dimensionless	mg/L	NA
+Aboualfa2006	NA	CPT_B	8.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	0.5	NA	NA	0.0	8.0	NA	NA	hr	NA

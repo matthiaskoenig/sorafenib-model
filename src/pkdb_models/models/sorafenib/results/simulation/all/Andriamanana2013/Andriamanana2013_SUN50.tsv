@@ -1,0 +1,7 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_sd	mean_se	comments	mean_unit
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	0.0	hour	5.804388954146282e-05				mole/meter^3
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	6.091829	hour	0.0001639822987526515				mole/meter^3
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	10.0119915	hour	0.00013164701415153195				mole/meter^3
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	11.906168	hour	0.00010656212217044657				mole/meter^3
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	18.054306	hour	7.832922857155149e-05				mole/meter^3
+Andriamanana2013		SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	24.044289	hour	6.585540180626728e-05				mole/meter^3

@@ -1,0 +1,7 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Andriamanana2013	all	2.0	NA	species	2.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	all	2.0	NA	healthy	2.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	all	2.0	NA	sex	2.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	SOF400	1.0	all	sex	1.0	NA	NR	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	SUN50	1.0	all	sex	1.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	SUN50	1.0	all	weight (categorial)	1.0	NA	obese	NA	NA	NA	NA	NA	NA	NA	NA

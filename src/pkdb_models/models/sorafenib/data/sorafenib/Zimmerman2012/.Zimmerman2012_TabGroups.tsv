@@ -1,0 +1,12 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Zimmerman2012	all	30	NA	species	30	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	all	17	NA	sex	17	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	all	13	NA	sex	13	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	all	30	NA	healthy	30	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	all	30	NA	age	30	NA	NA	NA	9.5	NA	NA	1.0	19.0	yr	NA
+Zimmerman2012	SOF150_sor	6	all	species	6	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	SOF150_m2	24	all	species	24	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	SOF150_sg	6	all	species	6	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	SOF200+sor	24	all	species	24	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	SOF200_m2	6	all	species	6	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Zimmerman2012	SOF200_sg	24	all	species	24	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,19 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Fukudo2014	all	91	NA	species	91	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	all	91	NA	healthy	91	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	all	74	all	sex	74	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	all	`17	all	sex	17	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	RCC	21	all	species	21	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	RCC	21	all	age	18	NA	NA	NA	60.0	NA	NA	19.0	80.0	yr	NA
+Fukudo2014	RCC	18	all	sex	21	NA	M	NA	NA	NA	NA	NA	18.0	NA	NA
+Fukudo2014	RCC	3	all	sex	3	NA	F	NA	NA	NA	NA	NA	3.0	NA	NA
+Fukudo2014	RCC	21	all	bmi	21	NA	NA	NA	1.59	NA	NA	1.4	2.05	kg/m^2	NA
+Fukudo2014	HCC	70	all	species	70	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	HCC	70	all	age	70	NA	NA	NA	70.0	NA	NA	34.0	84.0	yr	NA
+Fukudo2014	HCC	56	all	sex	56	NA	M	NA	NA	NA	NA	NA	56.0	NA	NA
+Fukudo2014	HCC	14	all	sex	14	NA	F	NA	NA	NA	NA	NA	14.0	NA	NA
+Fukudo2014	HCC	70	all	bmi	70	NA	NA	NA	1.58	NA	NA	1.22	2.08	kg/m^2	NA
+Fukudo2014	RCC_200	13	all	species	13	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	RCC_400	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	HCC_200	18	all	species	18	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fukudo2014	HCC_400	52	all	species	52	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

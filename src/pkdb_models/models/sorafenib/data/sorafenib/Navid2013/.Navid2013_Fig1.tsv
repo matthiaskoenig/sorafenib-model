@@ -1,0 +1,76 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	sd	unit	comments
+Navid2013	SOF_ST1	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST1	1.129196	hour	0.74681944	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST1	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST1	4.8132243	hour	3.309121	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST1	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST1	6.225888	hour	1.6031398	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST1	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST1	23.92455	hour	0.6333767	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST1	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST1	48.044735	hour	0.27619576	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	0.56645125	hour	0.35582498	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	1.0904388	hour	0.9013809	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	4.7938857	hour	1.8273973	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	6.1341915	hour	1.5109328	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	24.648123	hour	0.748573	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST2	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST2	49.127037	hour	0.32303098	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	0.5959422	hour	0.055904884	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	1.268029	hour	0.8491745	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	2.1355937	hour	1.3369594	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	3.7807198	hour	0.8292252	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	NA	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	6.240794	hour	0.63859725	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	7.7202554	hour	0.6063432	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	24.399546	hour	0.35648307	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST3	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST3	47.547176	hour	0.24545993	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST4	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST4	1.8532544	hour	0.056909073	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST4	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST4	6.241439	hour	0.6513629	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST4	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST4	7.710586	hour	0.45058703	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST4	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST4	23.925838	hour	0.6589525	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST4	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST4	47.645966	hour	0.32378948	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	1.1851965	hour	0.06674403	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	2.2247918	hour	0.33113757	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	4.7648783	hour	0.7499175	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	6.15071	hour	0.6323984	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	7.717999	hour	0.56576043	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	23.156092	hour	0.53594583	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST5	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST5	46.75769	hour	0.43203792	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	1.1174319	hour	0.03305869	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	2.42591	hour	0.64246666	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	4.741592	hour	1.4554925	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	5.631154	hour	1.1348614	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	7.8241987	hour	0.93706244	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	23.646883	hour	0.48989096	NA	NA	mg/l	solid tumour
+Navid2013	SOF_ST6	NA	1.0	SOF90	concentration	sorafenib	plasma	LC MS/MS	SOF_ST6	47.138412	hour	0.21173297	NA	NA	mg/l	solid tumour
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	1.539076	hour	2.3826962	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	2.0285742	hour	4.828873	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	2.9996963	hour	3.9546688	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	4.9965773	hour	3.018695	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	7.3727584	hour	2.9840884	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK1	9.070569	hour	1.4998567	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	25.134304	hour	0.8331026	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	0.520973	hour	0.048657577	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	1.0438904	hour	0.3668821	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	2.6956677	hour	0.94344306	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	4.400332	hour	1.9295919	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	6.209896	hour	2.0870185	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	8.236113	hour	2.5687451	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK2	24.220346	hour	1.9426707	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	0.96482694	hour	0.5463374	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	1.8860754	hour	1.0427421	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	3.9653738	hour	1.0622416	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	6.0733275	hour	1.517876	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	7.990902	hour	1.641595	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK3	24.107428	hour	0.71093476	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	0.6002795	hour	0.03434234	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	1.0594212	hour	0.03502218	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	2.01754	hour	0.504168	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	3.9391003	hour	1.2333114	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	6.1277704	hour	1.6600676	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	7.991145	hour	1.7253608	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK4	24.024912	hour	0.52221215	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK5	4.1404896	hour	0.06163883	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK5	5.9514146	hour	0.08809535	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK5	7.98677	hour	0.70441717	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK5	24.07464	hour	0.21748383	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	0.4615235	hour	0.01595934	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	1.0712333	hour	0.3933491	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	1.9956414	hour	1.4337542	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	4.022879	hour	2.1749423	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	6.2105765	hour	2.3990824	NA	NA	mg/l	leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_LK6	24.055998	hour	1.2049043	NA	NA	mg/l	leukemia

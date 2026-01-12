@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Fucile2015	all	12	NA	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fucile2015	all	11	NA	sex	11	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Fucile2015	all	1	NA	sex	1	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Fucile2015	all	12	NA	healthy	12	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Fucile2015	all	12	NA	age	12	NA	NA	NA	66.0	NA	NA	50.0	70.0	yr	NA
+Fucile2015	all	12	NA	weight	12	NA	NA	78.37	NA	10.84	NA	NA	NA	kg	NA
+Fucile2015	all	12	NA	bmi	12	NA	NA	26.33	NA	3.48	NA	NA	NA	kg/m^2	NA
+Fucile2015	SOF_200	12	all	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Fucile2015	SOF_400	12	all	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

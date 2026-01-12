@@ -1,0 +1,25 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	sd	min	max	se	unit	comments
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	25.0	50.0	NA	mg/L/hr	target_auc_end
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	dose 	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	533.0	NA	NA	306.0	NA	NA	NA	mg	pk guided dose 
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	78.0	NA	NA	22.0	NA	NA	NA	mg/L/hr	observed_auc_end_week1 
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	31.0	NA	NA	13.0	NA	NA	NA	mg/L/hr	observed_auc_end_week3
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	9089.0	NA	NA	3281.0	NA	NA	NA	ug/L	cmax_week1
+Mammatas2020	NA	SOF_1000	3.0	SOF1000	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	4385.0	NA	NA	1312.0	NA	NA	NA	ug/L	cmax_week3
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	75.0	100.0	NA	mg/L/hr	target_auc_end
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	dose 	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	1867.0	NA	NA	993.0	NA	NA	NA	mg	pk guided dose 
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	125.0	NA	NA	59.0	NA	NA	NA	mg/L/hr	observed_auc_end_week1 
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	102.0	NA	NA	49.0	NA	NA	NA	mg/L/hr	observed_auc_end_week3
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	13696.0	NA	NA	5866.0	NA	NA	NA	ug/L	cmax_week1
+Mammatas2020	NA	SOF_2000	8.0	SOF2000	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	11098.0	NA	NA	6115.0	NA	NA	NA	ug/L	cmax_week3
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	100.0	125.0	NA	mg/L/hr	target_auc_end
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	dose 	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	2333.0	NA	NA	219.0	NA	NA	NA	mg	pk guided dose 
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	204.0	NA	NA	113.0	NA	NA	NA	mg/L/hr	observed_auc_end_week1 
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	96.0	NA	NA	40.0	NA	NA	NA	mg/L/hr	observed_auc_end_week3
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	20829.0	NA	NA	11234.0	NA	NA	NA	ug/L	cmax_week1
+Mammatas2020	NA	SOF_2400	3.0	SOF2400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	13280.0	NA	NA	5310.0	NA	NA	NA	ug/L	cmax_week3
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	125.0	150.0	NA	mg/L/hr	target_auc_end
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	dose 	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	NA	NA	NA	mg	pk guided dose 
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	120.0	NA	NA	13.0	NA	NA	NA	mg/L/hr	observed_auc_end_week1 
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	auc_end	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	NA	NA	NA	mg/L/hr	observed_auc_end_week3
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	15200.0	NA	NA	1266.0	NA	NA	NA	ug/L	cmax_week1
+Mammatas2020	NA	SOF_2800	3.0	SOF2800	cmax	sorafenib	plasma	LC MS/MS	NA	NA	week	NA	NA	NA	NA	NA	NA	NA	NA	ug/L	cmax_week3

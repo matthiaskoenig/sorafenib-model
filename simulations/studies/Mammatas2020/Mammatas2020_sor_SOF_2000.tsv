@@ -1,0 +1,13 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	0.09598165	hour		0.00011173783308162622				week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	2.3265762	hour		0.002411497850808689				week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	4.2076507	hour		0.008465025622490994		0.018614617082521198		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	5.6200876	hour		0.013308556319999307		0.01942574210564813		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	8.066967	hour		0.0214539462078283		0.03314662260716912		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	9.074121	hour		0.019681011819476527		0.027401046843334914		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	9.9936	hour		0.01879135633548897		0.026897165821188996		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	11.203396	hour		0.020326653414395917		0.033067741477456065		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	11.955233	hour		0.022637744016040403		0.037582430845090414		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	16.203695	hour		0.022053561978030482		0.03369143292328742		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	20.27562	hour		0.023015300348947772		0.03421294634981691		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2000	8.0	SOF2000	concentration	sorafenib	plasma	LC MS/MS	SOF_2000	68.23322	hour		0.0036717702968422587		0.008305632645333951		week1	mole/meter^3	µg/L

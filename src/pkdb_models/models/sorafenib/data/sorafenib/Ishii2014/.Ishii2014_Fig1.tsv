@@ -1,0 +1,15 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	sd	unit	comments
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	0.038513765	hour	1.7153004	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	2.295272	hour	5.3143597	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	6.2947783	hour	3.3559704	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	24.211084	hour	2.859474	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	26.426367	hour	7.1930795	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	30.471052	hour	8.496113	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF_sor	48.70658	hour	3.7000864	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	0.02073818	hour	0.012478403	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	2.2604616	hour	0.41130736	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	5.9933343	hour	0.39786908	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	24.254044	hour	0.22413132	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	26.27009	hour	0.69207144	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	30.212566	hour	0.9586773	NA	NA	mg/l	NA
+Ishii2014	SOF_200	NA	1.0	SOF200	concentration	sorafenib-M2	plasma	LC MS/MS	SOF_m2	48.45698	hour	0.30980036	NA	NA	mg/l	NA

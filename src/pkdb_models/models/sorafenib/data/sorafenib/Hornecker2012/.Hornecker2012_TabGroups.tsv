@@ -1,0 +1,12 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Hornecker2012	all	71.0	NA	species	71.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	all	47.0	NA	sex	47.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	all	24.0	NA	sex	24.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	all	71.0	NA	healthy	71.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	all	71.0	NA	age	71.0	NA	NA	NA	60.0	NA	NA	20.0	80.0	yr	NA
+Hornecker2012	all	71.0	NA	weight	71.0	NA	NA	NA	70.0	NA	NA	52.0	106.0	kg	NA
+Hornecker2012	SOF400	88.0	all	species	88.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	SOF800	187.0	all	species	187.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	SOF1200	35.0	all	species	35.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	SOF1600	38.0	all	species	38.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hornecker2012	SOF2000	24.0	all	species	24.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

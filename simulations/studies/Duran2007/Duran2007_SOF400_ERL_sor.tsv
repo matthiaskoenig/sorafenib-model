@@ -1,0 +1,9 @@
+study	individual	group	count	interventions	measurement	substance	tissue	method	label	time	time_unit	mean	mean_pm	mean_sd	comments	mean_unit
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	0.0	hour	0.01642965907104			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	0.913752913752914	hour	0.015554308382828865			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	2.02331002331002	hour	0.018180360447462296			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	4.01398601398601	hour	0.01414028034802623			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	6.00466200466201	hour	0.014342284352998044			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	7.8974358974359	hour	0.017709017769194754			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	12.009324009324	hour	0.011783566956688522			day15	mole/meter^3
+Duran2007		SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	24.051282051282	hour	0.01565531038531476			day15	mole/meter^3

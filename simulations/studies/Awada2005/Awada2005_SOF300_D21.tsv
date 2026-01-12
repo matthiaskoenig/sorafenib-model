@@ -1,0 +1,9 @@
+study	group	count	interventions	measurement_type	substance	tissue	method	label	time	timerel	time_unit	mean	mean_pm	mean_sd	comments	mean_unit
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	480.0	0.0	hour	0.007603069320562962	5.228681	0.0036456151334047573		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	482.0	2.0	hour	0.00827688898641642	6.372385	0.0054322946651004875		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	483.0	3.0	hour	0.00822394530426439	5.079166	0.002703081152947554		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	484.0	4.0	hour	0.006239145400644541	4.2553453	0.0029155604462745193		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	486.0	6.0	hour	0.005672394186211613	4.2874317	0.003551340501607052		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	492.0	12.0	hour	0.003617690920903735	2.4321134	0.0016146183733267928		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	528.0	48.0	hour	0.004067354666047079	2.3590744	0.0010078227121546554		mole/meter^3
+Awada2005	SOF300	5.0	SOF300_D21	concentration	sorafenib	plasma	LC MS/MS	SOF300_D21	576.0	96.0	hour	0.0018431906778020159	1.1774665	0.0006899432260673885		mole/meter^3

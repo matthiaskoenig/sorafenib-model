@@ -1,0 +1,6 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	mean_sd	mean_se	wlow	q25	median	q75	wup	dose	dose_unit	comments	mean_unit	median_unit
+Hornecker2012		SOF400	88.0	SOF400	tmax	sorafenib	plasma	LC MS/MS						1.5802469	1.962963	2.3580246	2.8024693	3.6049383	400.0	mg		hr	hr
+Hornecker2012		SOF800	187.0	SOF800	tmax	sorafenib	plasma	LC MS/MS						2.2592592	3.2469137	3.728395	4.185185	5.308642	800.0	mg		hr	hr
+Hornecker2012		SOF1200	35.0	SOF1200	tmax	sorafenib	plasma	LC MS/MS						3.1234567	3.9135802	4.4074073	4.9753084	5.419753	1200.0	mg		hr	hr
+Hornecker2012		SOF1600	38.0	SOF1600	tmax	sorafenib	plasma	LC MS/MS						3.9753087	4.5308642	5.0	5.8271604	6.9135804	1600.0	mg		hr	hr
+Hornecker2012		SOF2000	24.0	SOF2000	tmax	sorafenib	plasma	LC MS/MS						4.419753	5.111111	5.654321	6.5555553	7.728395	2000.0	mg	Either 2000 or 2400 mg	hr	hr

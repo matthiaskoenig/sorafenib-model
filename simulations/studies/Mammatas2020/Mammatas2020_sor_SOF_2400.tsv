@@ -1,0 +1,13 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	2.1423247	hour		0.0025232355763231827		0.00472825207712133		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	4.3758855	hour		0.005374603830250458		0.008243320081062589		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	6.1491137	hour		0.008560477038719863		0.014573005812927845		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	8.159983	hour		0.02156356141868139		0.030664387319125855		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	9.088952	hour		0.02243905246264193		0.041136797425273104		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	10.075344	hour		0.016804859022515946		0.027174383532762792		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	11.194498	hour		0.01867182988903374		0.030201148386708135		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	12.352209	hour		0.027709706427781568		0.043045475080998034		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	14.193657	hour		0.04358256637967754		0.06917612396896901		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	18.496578	hour		0.03593709474082774		0.05419709525714997		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	22.295387	hour		0.03767320674833162		0.056371308833843184		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_2400	3.0	SOF2400	concentration	sorafenib	plasma	LC MS/MS	SOF_2400	67.979095	hour		0.007976438064996361		0.016578692887230916		week1	mole/meter^3	µg/L

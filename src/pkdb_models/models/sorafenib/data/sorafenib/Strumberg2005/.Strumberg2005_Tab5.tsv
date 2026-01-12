@@ -1,0 +1,16 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	min	max	ci	ci_unit	se	unit	comments
+Strumberg2005	NA	SOF100_MD	3.0	SOF100	auc_end	sorafenib	plasma	LC MS/MS	12.0	hr	NA	23.8	NA	NA	NA	NA	NA	43.0	percent	NA	mg/L*hr	4.0
+Strumberg2005	NA	SOF100_MD	3.0	SOF100	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	2.31	NA	NA	NA	NA	NA	54.0	percent	NA	mg/L	4.0
+Strumberg2005	NA	SOF100_MD	3.0	SOF100	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	5.2	NA	1.6	12.0	12.0	NA	NA	hr	4.0
+Strumberg2005	NA	SOF200_MD	3.0	SOF200	auc_end	sorafenib	plasma	LC MS/MS	12.0	hr	NA	16.1	NA	NA	NA	NA	NA	83.0	percent	NA	mg/L*hr	4.0
+Strumberg2005	NA	SOF200_MD	3.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	2.84	NA	NA	NA	NA	NA	88.0	percent	NA	mg/L	4.0
+Strumberg2005	NA	SOF200_MD	3.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.0	NA	0.0	4.0	NA	NA	NA	hr	4.0
+Strumberg2005	NA	SOF400_MD	5.0	SOF400	auc_end	sorafenib	plasma	LC MS/MS	12.0	hr	NA	71.7	NA	NA	NA	NA	NA	43.0	percent	NA	mg/L*hr	8.0
+Strumberg2005	NA	SOF400_MD	5.0	SOF400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	9.35	NA	NA	NA	NA	NA	44.0	percent	NA	mg/L	8.0
+Strumberg2005	NA	SOF400_MD	5.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	3.0	NA	0.0	12.0	NA	NA	NA	hr	8.0
+Strumberg2005	NA	SOF600_MD	8.0	SOF600	auc_end	sorafenib	plasma	LC MS/MS	12.0	hr	NA	79.0	NA	NA	NA	NA	NA	52.0	percent	NA	mg/L*hr	12.0
+Strumberg2005	NA	SOF600_MD	8.0	SOF600	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	9.81	NA	NA	NA	NA	NA	51.0	percent	NA	mg/L	12.0
+Strumberg2005	NA	SOF600_MD	8.0	SOF600	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.5	NA	0.0	8.5	NA	NA	NA	hr	12.0
+Strumberg2005	NA	SOF800_MD	3.0	SOF800	auc_end	sorafenib	plasma	LC MS/MS	12.0	hr	NA	44.9	NA	NA	NA	NA	NA	30.0	percent	NA	mg/L*hr	5.0
+Strumberg2005	NA	SOF800_MD	3.0	SOF800	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	7.21	NA	NA	NA	NA	NA	28.0	percent	NA	mg/L	5.0
+Strumberg2005	NA	SOF800_MD	3.0	SOF800	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.1	NA	1.0	6.5	NA	NA	NA	hr	5.0

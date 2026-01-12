@@ -1,0 +1,3 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	median	mean_sd	min	max	mean_se	comments	mean_unit	value_unit	median_unit
+Fucile2015	8.0	SOF_200	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_8	0.0	hr		0.011853898017752875			0.004797494116077843				cthrough; 12 h after the evening administration of sorafenib (Ctrough) and 3 h after the morning dosing (C3h)	mole/meter^3	ug/mL	ug/mL
+Fucile2015	8.0	SOF_200	1.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_8	3.0	hr		0.007787860403677934			0.004754467263018849				c3h; 12 h after the evening administration of sorafenib (Ctrough) and 3 h after the morning dosing (C3h)	mole/meter^3	ug/mL	ug/mL

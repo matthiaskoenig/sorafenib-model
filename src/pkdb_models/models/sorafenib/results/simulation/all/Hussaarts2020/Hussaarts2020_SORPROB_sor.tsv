@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	0.008995387	hour		0.00461064505858106	3128.0679				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	0.50804615	hour		0.004980063507635114	3472.9138				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	1.0243151	hour		0.005664387534260131	4070.5789				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	2.0560253	hour		0.006603489047514553	5385.663				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	4.0293813	hour		0.0048453494425871185	3610.0032				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	6.0053864	hour		0.004461754936255716	3311.7234				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	8.064723	hour		0.0042208671631965506	3093.486				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	10.040066	hour		0.0034936365435668396	2422.5444				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib	plasma	LC MS/MS	SORPROB_sor	12.066787	hour		0.0035679389707116206	2563.5696				mole/meter^3	ng/mL

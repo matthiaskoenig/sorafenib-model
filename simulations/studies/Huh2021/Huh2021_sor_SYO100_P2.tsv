@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	0.39034772	hour		0.00031814227259232473					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	0.78851384	hour		0.0019834926187433572					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	1.8741281	hour		0.004312430888117272					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	2.7718847	hour		0.0059454907857994154					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	3.7063665	hour		0.006119982531097656					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	5.861241	hour		0.0021053278000800293					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	7.8063803	hour		0.0017594361546040879					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	9.9494915	hour		0.00287300387671946					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	11.887099	hour		0.0016609762362690549					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	23.779291	hour		0.0024469009909084253					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	36.790512	hour		0.0008254831915598522					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	48.827343	hour		0.0009902794809240445					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	72.52127	hour		0.0004547936001858759					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	96.53301	hour		0.000261045617069613					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	120.541626	hour		9.63694371657351e-05					mole/meter^3	ug/L
+Huh2021		SYO100_P2	7.0	SYO100	concentration	sorafenib	plasma	LC MS/MS	SYO100_P2	168.8829	hour		5.061137716048584e-05					mole/meter^3	ug/L

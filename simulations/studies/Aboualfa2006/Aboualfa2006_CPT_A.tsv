@@ -1,0 +1,8 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	mean_sd	mean_se	comments	mean_unit
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	0.0	hour	0.00786911833810488					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	0.526893523600439	hour	0.007767799217871783					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	1.00109769484083	hour	0.007734026177794076					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	2.00219538968167	hour	0.007632707057560957					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	3.99121844127333	hour	0.006079147213986608					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	8.00878155872667	hour	0.005673870733054174					mole/meter^3
+Aboualfa2006		CPT_A	14.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	CPT_A	9.98463227222832	hour	0.006180466334219728					mole/meter^3

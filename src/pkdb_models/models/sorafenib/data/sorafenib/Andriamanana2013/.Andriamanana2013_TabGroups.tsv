@@ -1,0 +1,5 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Andriamanana2013	all	1	NA	species	1	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	all	1	NA	healthy	1	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Andriamanana2013	SOF_200	1	all	species	1	NA	homo sapiens	NA	NA	NA	NA	NA	NA	mg	NA
+Andriamanana2013	SUN_50	1	all	species	1	NA	homo sapiens	NA	NA	NA	NA	NA	NA	mg	NA

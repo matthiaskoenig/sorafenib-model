@@ -1,0 +1,3423 @@
+{
+  "experiment_id": "Strumberg2005",
+  "base_path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib",
+  "data_path": "[PosixPath('/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/data/sorafenib')]",
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "content": "None"
+      },
+      "changes": {}
+    }
+  },
+  "tasks": {
+    "task_sor_po_100_SD": {
+      "model": "model",
+      "simulation": "sor_po_100_SD"
+    },
+    "task_sor_po_200_SD": {
+      "model": "model",
+      "simulation": "sor_po_200_SD"
+    },
+    "task_sor_po_400_SD": {
+      "model": "model",
+      "simulation": "sor_po_400_SD"
+    },
+    "task_sor_po_600_SD": {
+      "model": "model",
+      "simulation": "sor_po_600_SD"
+    },
+    "task_sor_po_800_SD": {
+      "model": "model",
+      "simulation": "sor_po_800_SD"
+    },
+    "task_sor_po_100_MD": {
+      "model": "model",
+      "simulation": "sor_po_100_MD"
+    },
+    "task_sor_po_200_MD": {
+      "model": "model",
+      "simulation": "sor_po_200_MD"
+    },
+    "task_sor_po_400_MD": {
+      "model": "model",
+      "simulation": "sor_po_400_MD"
+    },
+    "task_sor_po_600_MD": {
+      "model": "model",
+      "simulation": "sor_po_600_MD"
+    },
+    "task_sor_po_800_MD": {
+      "model": "model",
+      "simulation": "sor_po_800_MD"
+    }
+  },
+  "simulations": {
+    "sor_po_100_SD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 720,
+          "steps": 1000,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_200_SD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 720,
+          "steps": 1000,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_400_SD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 720,
+          "steps": 1000,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_600_SD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 720,
+          "steps": 1000,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_800_SD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 720,
+          "steps": 1000,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_100_MD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": -20160,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 100,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_200_MD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": -20160,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_400_MD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": -20160,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 400,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_600_MD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": -20160,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 600,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_800_MD": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": -20160,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 800,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    }
+  },
+  "data": {
+    "task_sor_po_100_SD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_SD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_100_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_SD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_200_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_SD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_400_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_SD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_600_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_SD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_800_SD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_100_MD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_100_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_200_MD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_200_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_400_MD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_400_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_600_MD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_600_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_800_MD__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_800_MD",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    }
+  },
+  "figures": {
+    "Fig1_PO_plasma": {
+      "sid": "Fig1_PO_plasma",
+      "name": "Strumberg2005",
+      "num_rows": 2,
+      "num_cols": 1,
+      "width": 7.0,
+      "height": 10.0,
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1_PO_plasma__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1_PO_plasma__plot0_xaxis",
+              "name": "time [hour]",
+              "label": "time",
+              "unit": "hour",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1_PO_plasma__plot0_yaxis",
+              "name": "sorafenib (plasma) [\u00b5M]",
+              "label": "sorafenib (plasma)",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": false,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve0",
+                "name": "Sim 100 [mg])",
+                "x": "task_sor_po_100_SD__time",
+                "y": "task_sor_po_100_SD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#f5e926ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#f5e926ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f5e926ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve1",
+                "name": "Sim 200 [mg])",
+                "x": "task_sor_po_200_SD__time",
+                "y": "task_sor_po_200_SD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fada24ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fada24ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fada24ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve2",
+                "name": "Sim 400 [mg])",
+                "x": "task_sor_po_400_SD__time",
+                "y": "task_sor_po_400_SD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#febd2aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#febd2aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#febd2aff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve3",
+                "name": "Sim 600 [mg])",
+                "x": "task_sor_po_600_SD__time",
+                "y": "task_sor_po_600_SD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fba238ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fba238ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fba238ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve4",
+                "name": "Sim 800 [mg])",
+                "x": "task_sor_po_800_SD__time",
+                "y": "task_sor_po_800_SD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#f48849ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#f48849ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f48849ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve5",
+                "name": "100[mg]\u00b1SD (n=6)",
+                "x": "sor_SOF100_SD__time",
+                "y": "sor_SOF100_SD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF100_SD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#f5e926ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#f5e926ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f5e926ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve6",
+                "name": "200[mg]\u00b1SD (n=5)",
+                "x": "sor_SOF200_SD__time",
+                "y": "sor_SOF200_SD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF200_SD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fada24ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fada24ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fada24ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve7",
+                "name": "400[mg]\u00b1SD (n=8)",
+                "x": "sor_SOF400_SD__time",
+                "y": "sor_SOF400_SD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF400_SD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#febd2aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#febd2aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#febd2aff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve8",
+                "name": "600[mg]\u00b1SD (n=12)",
+                "x": "sor_SOF600_SD__time",
+                "y": "sor_SOF600_SD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF600_SD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fba238ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fba238ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fba238ff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot0_curve9",
+                "name": "800[mg]\u00b1SD (n=3)",
+                "x": "sor_SOF800_SD__time",
+                "y": "sor_SOF800_SD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF800_SD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#f48849ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#f48849ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f48849ff",
+                    "second_color": null
+                  }
+                },
+                "order": 9
+              }
+            ],
+            "areas": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1_PO_plasma__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1_PO_plasma__plot1_xaxis",
+              "name": "time [hour]",
+              "label": "time",
+              "unit": "hour",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1_PO_plasma__plot1_yaxis",
+              "name": "sorafenib (plasma) [\u00b5M]",
+              "label": "sorafenib (plasma)",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": false,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve0",
+                "name": "Sim 100 [mg])",
+                "x": "task_sor_po_100_MD__time",
+                "y": "task_sor_po_100_MD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#f5e926ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#f5e926ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f5e926ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve1",
+                "name": "Sim 200 [mg])",
+                "x": "task_sor_po_200_MD__time",
+                "y": "task_sor_po_200_MD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fada24ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fada24ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fada24ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve2",
+                "name": "Sim 400 [mg])",
+                "x": "task_sor_po_400_MD__time",
+                "y": "task_sor_po_400_MD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#febd2aff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#febd2aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#febd2aff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve3",
+                "name": "Sim 600 [mg])",
+                "x": "task_sor_po_600_MD__time",
+                "y": "task_sor_po_600_MD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#fba238ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#fba238ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fba238ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve4",
+                "name": "Sim 800 [mg])",
+                "x": "task_sor_po_800_MD__time",
+                "y": "task_sor_po_800_MD__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#f48849ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#f48849ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f48849ff",
+                    "second_color": null
+                  }
+                },
+                "order": 4
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve5",
+                "name": "100[mg]\u00b1SD (n=4)",
+                "x": "sor_SOF100_MD__time",
+                "y": "sor_SOF100_MD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF100_MD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#f5e926ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#f5e926ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f5e926ff",
+                    "second_color": null
+                  }
+                },
+                "order": 5
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve6",
+                "name": "200[mg]\u00b1SD (n=4)",
+                "x": "sor_SOF200_MD__time",
+                "y": "sor_SOF200_MD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF200_MD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fada24ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fada24ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fada24ff",
+                    "second_color": null
+                  }
+                },
+                "order": 6
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve7",
+                "name": "400[mg]\u00b1SD (n=5)",
+                "x": "sor_SOF400_MD__time",
+                "y": "sor_SOF400_MD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF400_MD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#febd2aff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#febd2aff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#febd2aff",
+                    "second_color": null
+                  }
+                },
+                "order": 7
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve8",
+                "name": "600[mg]\u00b1SD (n=12)",
+                "x": "sor_SOF600_MD__time",
+                "y": "sor_SOF600_MD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF600_MD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#fba238ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#fba238ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#fba238ff",
+                    "second_color": null
+                  }
+                },
+                "order": 8
+              },
+              {
+                "sid": "Fig1_PO_plasma__plot1_curve9",
+                "name": "800[mg]\u00b1SD (n=3)",
+                "x": "sor_SOF800_MD__time",
+                "y": "sor_SOF800_MD__mean",
+                "xerr": null,
+                "yerr": "sor_SOF800_MD__mean_sd",
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#f48849ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#f48849ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#f48849ff",
+                    "second_color": null
+                  }
+                },
+                "order": 9
+              }
+            ],
+            "areas": []
+          },
+          "row": 2,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

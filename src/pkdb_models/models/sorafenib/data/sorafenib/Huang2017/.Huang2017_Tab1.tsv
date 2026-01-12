@@ -1,0 +1,13 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	ci	ci_unit	min	max	se	unit	comments
+Huang2017	NA	SOF400_P1	25.0	SOF400	auc_inf	sorafenib 	plasma	LC MS/MS	NA	NA	NA	68.1	NA	NA	NA	68.2	percent	19.3	239.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	auc_end	sorafenib 	plasma	LC MS/MS	96.0	hour	NA	62.8	NA	NA	NA	68.3	percent	17.6	228.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	auc_end	sorafenib 	plasma	LC MS/MS	96.0	hour	NA	62.8	NA	NA	NA	68.3	percent	17.6	227.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	NA	2.09	NA	NA	NA	68.1	percent	0.568	6.99	NA	mg/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	tmax	sorafenib 	plasma	LC MS/MS	NA	NA	NA	4.0	NA	NA	NA	NA	percent	2.98	16.0	NA	hr	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	thalf	sorafenib 	plasma	LC MS/MS	NA	NA	NA	24.0	NA	NA	NA	25.3	percent	16.2	43.2	NA	hr	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	auc_inf	sorafenib 	plasma	LC MS/MS	NA	NA	NA	64.3	NA	NA	NA	66.3	percent	19.6	295.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	auc_end	sorafenib 	plasma	LC MS/MS	96.0	hour	NA	58.5	NA	NA	NA	67.1	percent	16.8	261.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	auc_end	sorafenib 	plasma	LC MS/MS	96.0	hour	NA	58.5	NA	NA	NA	67.1	percent	16.8	262.0	NA	mg*hr/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	NA	1.78	NA	NA	NA	63.9	percent	0.589	6.04	NA	mg/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	tmax	sorafenib 	plasma	LC MS/MS	NA	NA	NA	4.02	NA	NA	NA	NA	percent	1.98	36.0	NA	hr	geometric mean and geometric SD
+Huang2017	NA	LEV300_P2	25.0	SOF400,LEV300	thalf	sorafenib 	plasma	LC MS/MS	NA	NA	NA	25.7	NA	NA	NA	21.0	percent	17.6	43.0	NA	hr	geometric mean and geometric SD

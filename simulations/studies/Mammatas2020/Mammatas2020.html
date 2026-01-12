@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+    <title>Mammatas2020</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <!--<link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/default.min.css">
+</head>
+
+<body>
+<div id="app">
+    <!-- Vue app-->
+    <v-app>
+        <v-content>
+
+            <a href="../index.html">Experiments</a>
+            <h1>Mammatas2020</h1>
+
+            <h2>Models</h2>
+            <p>
+            <ul>
+                <li><strong>model</strong>: <a href="../../../../models/results/models/sorafenib_body_flat.xml">../../../../models/results/models/sorafenib_body_flat.xml</a></li>
+            </ul>
+            </p>
+
+            <h2>Datasets</h2>
+            <p>
+            <ul>
+                <li><strong>sor_SOF_1000</strong>: <a href="Mammatas2020_sor_SOF_1000.tsv">Mammatas2020_sor_SOF_1000.tsv</a></li>
+                <li><strong>sor_SOF_2000</strong>: <a href="Mammatas2020_sor_SOF_2000.tsv">Mammatas2020_sor_SOF_2000.tsv</a></li>
+                <li><strong>sor_SOF_2400</strong>: <a href="Mammatas2020_sor_SOF_2400.tsv">Mammatas2020_sor_SOF_2400.tsv</a></li>
+                <li><strong>sor_SOF_2800</strong>: <a href="Mammatas2020_sor_SOF_2800.tsv">Mammatas2020_sor_SOF_2800.tsv</a></li>
+            </ul>
+            </p>
+
+            <h2>Figures</h2>
+            <p>
+            <ul>
+                <li><strong>Fig1_PO_plasma</strong>: <a href="Mammatas2020_Fig1_PO_plasma.svg">Mammatas2020_Fig1_PO_plasma.svg</a></li>
+            </ul>
+            </p>
+
+            <h3>Fig1_PO_plasma</h3>
+            <p>
+            <table>
+                <tr>
+                    <td>
+                        <!--<v-img src="Mammatas2020_Fig1_PO_plasma.svg" max-width="600" width="600"></v-img>-->
+                        <img src="Mammatas2020_Fig1_PO_plasma.svg" width="600">
+                    </td>
+                    <!--
+                    <td>
+                    </td>
+                    -->
+                </tr>
+            </table>
+            </p>
+
+            <h2>Code</h2>
+            <p>
+                <a href="../../../../experiments/studies/mammatas2020.py">../../../../experiments/studies/mammatas2020.py</a>
+            <pre>
+<code class="python">from typing import Dict
+from sbmlsim.data import DataSet, load_pkdb_dataframe
+from sbmlsim.fit import FitMapping, FitData
+from sbmlutils.console import console
+from pkdb_models.models import sorafenib
+
+from pkdb_models.models.sorafenib.experiments.base_experiment import SorafenibSimulationExperiment
+from sbmlsim.plot import Axis, Figure
+from sbmlsim.simulation import Timecourse, TimecourseSim
+from pkdb_models.models.sorafenib.helpers import run_experiments
+
+
+class Mammatas2020(SorafenibSimulationExperiment):
+    """Simulation experiment of Mammatas2020."""
+    doses = [1000, 2000, 2400, 2800]
+    groups = ["SOF_1000", "SOF_2000", "SOF_2400", "SOF_2800"]
+
+    def datasets(self) -> Dict[str, DataSet]:
+        dsets = {}
+        for fig_id in ["Fig1"]:
+            df = load_pkdb_dataframe(f"{self.sid}_{fig_id}", data_path=self.data_path)
+
+            for label, df_label in df.groupby("label"):
+                dset = DataSet.from_df(df_label, self.ureg)
+                # console.print(dset.to_string())
+                dset.unit_conversion("mean", 1 / self.Mr.sor)
+                dsets[f"sor_{label}"] = dset
+
+        # print(dsets.keys())
+        return dsets
+
+    def simulations(self) -> Dict[str, TimecourseSim]:
+        Q_ = self.Q_
+        tcsims = {}
+        for dose in self.doses:
+            tcsims[f"sor_po_{dose}"] = TimecourseSim(
+                Timecourse(
+                    start=0,
+                    end=72 * 60,
+                    steps=1000,
+                    changes={
+                        **self.default_changes(),
+                        "PODOSE_sor": Q_(dose, "mg"),
+                    },
+                )
+            )
+
+        return tcsims
+
+    def fit_mappings(self) -> Dict[str, FitMapping]:
+        mappings = {}
+        for dose in self.doses:
+            for group in self.groups:
+                mappings[f"fm_sor_po_{group}"] = FitMapping(
+                    self,
+                    reference=FitData(
+                        self,
+                        dataset=f"sor_{group}",
+                        xid="time",
+                        yid="mean",
+                        yid_sd="mean_sd",
+                        count="count",
+                    ),
+                    observable=FitData(
+                        self, task=f"task_sor_po_{dose}", xid="time", yid="[Cve_sor]",
+                    ),
+                )
+        return mappings
+
+    def figures(self) -> Dict[str, Figure]:
+        name = "Fig1"
+        fig = Figure(
+            experiment=self,
+            sid=f"{name}_PO_plasma",
+            num_rows=1,
+            num_cols=1,
+            name=f"{self.__class__.__name__}",
+        )
+        plots = fig.create_plots(xaxis=Axis(self.label_time, unit="hour"), legend=True)
+        plots[0].set_yaxis(self.label_sor, unit=self.units["[Cve_sor]"])
+
+        # simulation
+        for dose in self.doses:
+            dataset = f"sor_SOF_{dose}"
+            plots[0].add_data(
+                task=f"task_sor_po_{dose}",
+                xid="time",
+                yid="[Cve_sor]",
+                label=f"Sim {dose} [mg]",
+                color=self.color_for_dose(dose),
+            )
+
+            # Adding data
+            for dose in self.doses:
+                plots[0].add_data(
+                    dataset=dataset,
+                    xid="time",
+                    yid="mean",
+                    yid_sd=None,
+                    count="count",
+                    label=f"{dose} [mg]",
+                    color=self.color_for_dose(dose),
+                )
+        return {fig.sid: fig}
+
+
+if __name__ == "__main__":
+    out = sorafenib.RESULTS_PATH_SIMULATION / Mammatas2020.__name__
+    out.mkdir(parents=True, exist_ok=True)
+    run_experiments(Mammatas2020, output_dir="Mammatas2020")
+</code>
+        </pre>
+            </p>
+
+        </v-content>
+    </v-app>
+</div>
+
+
+<!-- loading dependencies -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify@2.2.6/dist/vuetify.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script>
+    const app = new Vue({
+        el: '#app',
+        vuetify: new Vuetify(),
+        delimiters: ['${', '}'],
+        data() {
+            return {}
+        }
+    })
+</script>
+
+
+</body>
+</html>

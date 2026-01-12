@@ -1,0 +1,34 @@
+study	individual	group	count	interventions	measurement	substance	tissue	method	label	time	time_unit	mean	mean_pm	sd	unit	comments
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	0.0979020979020979	hour	2597.80907668232	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	1.01165501165501	hour	2550.8607198748	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	1.92540792540793	hour	3114.24100156495	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	4.01398601398601	hour	3176.83881064163	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	6.03729603729604	hour	2441.31455399061	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	8.02797202797203	hour	2879.49921752739	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	12.009324009324	hour	2363.06729264476	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	24.051282051282	hour	3004.69483568075	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200	concentration	sorafenib	plasma	LC MS-MS	SOF200_sor	24.051282051282	hour	3004.69483568075	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	0.130536130536131	hour	2832.55086071987	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	1.07692307692308	hour	3521.12676056338	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	1.99067599067599	hour	3771.51799687011	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	NA	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	3.85081585081585	hour	2785.60250391236	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	5.97202797202797	hour	2441.31455399061	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	8.06060606060606	hour	2910.79812206573	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	11.97668997669	hour	2879.49921752739	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_200_L1	10.0	SOF200, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF200_ERL_sor	24.0839160839161	hour	2535.21126760563	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	0.0	hour	7668.23161189358	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	1.07692307692308	hour	9780.90766823161	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	2.08857808857809	hour	9467.9186228482	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	4.01398601398601	hour	8247.2613458529	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	6.00466200466201	hour	7464.78873239437	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	8.02797202797203	hour	9483.56807511737	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	12.041958041958	hour	5586.8544600939	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	7.0	SOF400 	concentration	sorafenib	plasma	LC MS-MS	SOF400_sor	24.018648018648	hour	7073.5524256651	NA	NA	ng/ml	day2
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	0.0	hour	7636.93270735524	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	0.913752913752914	hour	7230.04694835681	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	2.02331002331002	hour	8450.70422535211	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	4.01398601398601	hour	6572.76995305164	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	6.00466200466201	hour	6666.66666666667	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	7.8974358974359	hour	8231.61189358372	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	12.009324009324	hour	5477.3082942097	NA	NA	ng/ml	day15
+Duran2007	NA	SOF_400_L2	5.0	SOF400, ERL?	concentration	sorafenib	plasma	LC MS-MS	SOF400_ERL_sor	24.051282051282	hour	7276.99530516432	NA	NA	ng/ml	day15

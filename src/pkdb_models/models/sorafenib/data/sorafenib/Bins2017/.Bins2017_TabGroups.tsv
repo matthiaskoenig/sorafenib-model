@@ -1,0 +1,7 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Bins2017	all	9	NA	species	9	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Bins2017	all	9	NA	sex	8	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Bins2017	all	9	NA	healthy	9	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Bins2017	all	9	NA	age	9	NA	NA	71.0	NA	NA	NA	62.0	79.0	yr	NA
+Bins2017	SOF_200	4	all	species	4	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Bins2017	SOF_400	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

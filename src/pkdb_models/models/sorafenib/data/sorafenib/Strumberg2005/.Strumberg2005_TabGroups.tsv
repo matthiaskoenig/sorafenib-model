@@ -1,0 +1,17 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Strumberg2005	all	69	NA	species	69	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Strumberg2005	all	44	NA	sex	44	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Strumberg2005	all	25	NA	sex	25	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Strumberg2005	all	69	NA	healthy	69	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Strumberg2005	all	69	NA	overnight fast	69	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Strumberg2005	all	69	NA	age	69	NA	NA	NA	69.0	NA	NA	18.0	75.0	yr	NA
+Strumberg2005	SOF100_MD	22	all	species	22	NA	homo sapiens	90.8	NA	NA	NA	20.0	407.0	NA	NA
+Strumberg2005	SOF200_MD	22	all	species	22	NA	homo sapiens	90.8	NA	NA	NA	20.0	407.0	NA	NA
+Strumberg2005	SOF400_MD	22	all	species	22	NA	homo sapiens	90.8	NA	NA	NA	20.0	407.0	NA	NA
+Strumberg2005	SOF600_MD	22	all	species	22	NA	homo sapiens	90.8	NA	NA	NA	20.0	407.0	NA	NA
+Strumberg2005	SOF800_MD	22	all	species	22	NA	homo sapiens	90.8	NA	NA	NA	20.0	407.0	NA	NA
+Strumberg2005	SOF100_SD	5	all	species	5	NA	homo sapiens	54.2	NA	NA	NA	9.0	97.0	NA	NA
+Strumberg2005	SOF200_SD	6	all	species	6	NA	homo sapiens	264.0	NA	NA	NA	71.0	412.0	NA	NA
+Strumberg2005	SOF400_SD	15	all	species	15	NA	homo sapiens	230.0	NA	NA	NA	28.0	738.0	NA	NA
+Strumberg2005	SOF600_SD	14	all	species	14	NA	homo sapiens	89.3	NA	NA	NA	12.0	295.0	NA	NA
+Strumberg2005	SOF800_SD	7	all	species	7	NA	homo sapiens	88.4	NA	NA	NA	35.0	190.0	NA	NA

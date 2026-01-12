@@ -1,0 +1,12 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	0.0092448027277438	hour		0.012639104213465766				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	0.510256868425601	hour		0.013040609695917136				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	1.01443255482877	hour		0.014248856857196582				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	2.00485674363834	hour		0.01209381499972968				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	2.55849036706788	hour		0.015587679005862899				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	3.01022025244521	hour		0.013748386625617625				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	4.03744789545991	hour		0.010651994897692188				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	6.04796400502664	hour		0.01046520712616				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	8.08744481971756	hour		0.014222439369400935				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	10.0164098177696	hour		0.010450385100564724				multiple dose	mole/meter^3	mg/L
+Strumberg2005		SOF400_MD	5.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_MD	12.0187005135025	hour		0.011608217208799053				multiple dose	mole/meter^3	mg/L

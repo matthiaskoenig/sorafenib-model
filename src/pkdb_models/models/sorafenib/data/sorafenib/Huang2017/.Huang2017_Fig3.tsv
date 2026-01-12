@@ -1,0 +1,27 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	sd	unit	comments
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	2.81171548117155	hour	501.461988304094	1589.97050147493	1088.50851317084	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	4.01673640167364	hour	1115.49707602339	2519.17404129794	1403.67696527455	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	4.82008368200837	hour	1565.78947368421	3396.75516224189	1830.96568855768	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	5.6234309623431	hour	1780.70175438597	3438.05309734513	1657.35134295916	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	7.76569037656904	hour	951.754385964912	1466.07669616519	514.322310200278	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	9.64016736401674	hour	1115.49707602339	2023.598820059	908.10174403561	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	13.6569037656904	hour	1565.78947368421	3169.61651917404	1603.82704548983	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	17.2719665271967	hour	1156.43274853801	2157.81710914454	1001.38436060653	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	24.9037656903766	hour	1228.0701754386	2250.73746312684	1022.66728768824	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	36.418410041841	hour	849.415204678363	1837.7581120944	988.342907416037	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	47.6652719665272	hour	562.865497076023	1042.77286135693	479.907364280907	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	70.9623430962343	hour	327.485380116959	609.144542772861	281.659162655902	ug/L	geometric mean and geometric SD
+Huang2017	NA	SOF400_P1	25.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_sor	93.9916317991632	hour	184.210526315789	299.410029498525	115.199503182736	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	2.94560669456067	hour	429.824561403509	1125.36873156342	695.544170159911	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	4.01673640167364	hour	880.116959064327	2312.68436578171	1432.56740671738	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	5.22175732217573	hour	1207.60233918129	2694.69026548673	1487.08792630544	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	6.2928870292887	hour	1524.85380116959	2932.15339233038	1407.29959116079	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	7.49790794979079	hour	828.947368421053	1321.53392330383	492.586554882777	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	9.77405857740586	hour	1013.15789473684	1941.00294985251	927.84505511567	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	13.7907949790795	hour	1391.81286549708	2849.55752212389	1457.74465662681	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	17.1380753138075	hour	1023.3918128655	1951.32743362832	927.93562076282	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	24.9037656903766	hour	1023.3918128655	1786.13569321534	762.74388034984	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	36.418410041841	hour	849.415204678363	1528.02359882006	678.608394141697	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	47.9330543933054	hour	552.631578947368	939.52802359882	386.896444651452	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	70.8284518828452	hour	337.719298245614	516.224188790561	178.504890544947	ug/L	geometric mean and geometric SD
+Huang2017	NA	LEV300_P1	25.0	SOF400, LEV300	concentration	sorafenib	plasma	LC MS/MS	LEV300_sor	93.8577405857741	hour	173.976608187135	247.787610619469	73.811002432334	ug/L	geometric mean and geometric SD

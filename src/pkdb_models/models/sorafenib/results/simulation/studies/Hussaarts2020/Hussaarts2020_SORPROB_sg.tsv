@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	0.015103792	hour		0.021583827761320354	16554.379				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	0.5185883	hour		0.020598176047397377	15252.452				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	1.0035838	hour		0.021294415996614472	16125.71				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	2.073944	hour		0.02286144942869234	16364.625				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	4.012512	hour		0.023965700380871775	18390.744				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	6.015364	hour		0.02206079348286077	16947.201				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	8.03611	hour		0.0215708252221752	16507.36				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	10.089817	hour		0.020549318662716885	16945.432				mole/meter^3	ng/mL
+Hussaarts2020		all	16.0	SOR200,PROB500	concentration	sorafenib_glucuronide	plasma	LC MS/MS	SORPROB_sg	12.076263	hour		0.018998639441388066	15751.604				mole/meter^3	ng/mL

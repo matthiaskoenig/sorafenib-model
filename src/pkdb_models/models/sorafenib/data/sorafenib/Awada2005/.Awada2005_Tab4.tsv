@@ -1,0 +1,22 @@
+study	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	sd	min	max	se	unit	comments
+Awada2005	SOF200	3.0	SOF200_D1	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	24.9	1.39	17.3	32.6	NA	mg*hr/l	NA
+Awada2005	SOF400	9.0	SOF400_D1	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	24.0	1.51	13.9	46.4	NA	mg*hr/l	NA
+Awada2005	SOF600	12.0	SOF600_D1	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	30.4	1.68	9.02	65.0	NA	mg*hr/l	NA
+Awada2005	SOF200	3.0	SOF200_D1	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	3.63	1.26	3.0	4.7	NA	mg/l	NA
+Awada2005	SOF400	10.0	SOF400_D1	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	3.04	1.89	0.92	7.55	NA	mg/l	NA
+Awada2005	SOF600	12.0	SOF600_D1	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	4.56	1.69	1.58	12.1	NA	mg/l	NA
+Awada2005	SOF200	3.0	SOF200_D7	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	83.4	1.44	64.2	126.0	NA	mg*hr/l	NA
+Awada2005	SOF400	9.0	SOF400_D7	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	82.7	1.62	39.6	201.0	NA	mg*hr/l	NA
+Awada2005	SOF600	12.0	SOF600_D7	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	94.8	1.62	45.1	199.0	NA	mg*hr/l	NA
+Awada2005	SOF200	3.0	SOF200_D7	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	9.01	1.8	5.58	17.4	NA	mg/l	NA
+Awada2005	SOF400	10.0	SOF400_D7	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	9.9	1.52	5.63	23.0	NA	mg/l	NA
+Awada2005	SOF600	12.0	SOF600_D7	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	11.5	1.54	5.96	21.8	NA	mg/l	NA
+Awada2005	SOF200	3.0	SOF200_D21	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	50.5	1.14	45.2	58.4	NA	mg*hr/l	NA
+Awada2005	SOF400	9.0	SOF400_D21	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	76.5	1.28	60.1	112.0	NA	mg*hr/l	NA
+Awada2005	SOF600	12.0	SOF600_D21	auc_end	sorafenib 	plasma	LC MS/MS	12.0	hour	77.0	1.55	46.8	160.0	NA	mg*hr/l	NA
+Awada2005	SOF200	3.0	SOF200_D21	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	6.33	1.61	4.79	11.0	NA	mg/l	NA
+Awada2005	SOF400	10.0	SOF400_D21	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	10.0	1.26	7.46	15.1	NA	mg/l	NA
+Awada2005	SOF600	12.0	SOF600_D21	cmax	sorafenib 	plasma	LC MS/MS	NA	NA	9.24	1.53	4.72	16.7	NA	mg/l	NA
+Awada2005	SOF200	2.0	SOF200_D21	thalf	sorafenib 	plasma	LC MS/MS	NA	NA	29.8	1.14	27.2	32.8	NA	hr	NA
+Awada2005	SOF400	3.0	SOF400_D21	thalf	sorafenib 	plasma	LC MS/MS	NA	NA	23.8	1.45	16.7	35.2	NA	hr	NA
+Awada2005	SOF600	6.0	SOF600_D21	thalf	sorafenib 	plasma	LC MS/MS	NA	NA	38.6	1.45	24.1	72.3	NA	hr	NA

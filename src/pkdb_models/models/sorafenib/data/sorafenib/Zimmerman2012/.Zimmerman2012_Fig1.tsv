@@ -1,0 +1,25 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	sd	se	unit	comments
+Zimmerman2012	NA	SOF150_sor	6.0	SOF150	concentration	sorafenib	plasma	LC MS/MS	SOF150_sor	0.021680216802168	hour	NA	7.40540540540541	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sor	6.0	SOF150	concentration	sorafenib	plasma	LC MS/MS	SOF150_sor	2.01626016260163	hour	NA	7.16216216216216	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sor	6.0	SOF150	concentration	sorafenib	plasma	LC MS/MS	SOF150_sor	4.50948509485095	hour	NA	6.37837837837838	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sor	6.0	SOF150	concentration	sorafenib	plasma	LC MS/MS	SOF150_sor	7.54471544715447	hour	NA	6.32432432432432	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	0.0	hour	NA	2.56756756756757	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	1.99457994579946	hour	NA	2.59459459459459	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	4.53116531165312	hour	NA	2.45945945945946	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	7.54471544715447	hour	NA	2.91891891891892	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sg	6.0	SOF150	concentration	sorafenib_sg	plasma	LC MS/MS	SOF150_sg	0.021680216802168	hour	NA	1.35135135135135	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sg	6.0	SOF150	concentration	sorafenib_sg	plasma	LC MS/MS	SOF150_sg	1.97289972899729	hour	NA	1.37837837837838	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sg	6.0	SOF150	concentration	sorafenib_sg	plasma	LC MS/MS	SOF150_sg	4.53116531165312	hour	NA	1.54054054054054	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF150_sg	6.0	SOF150	concentration	sorafenib_sg	plasma	LC MS/MS	SOF150_sg	7.56639566395664	hour	NA	1.51351351351351	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sor	24.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_sor	0.0437158469945355	hour	NA	5.13513513513514	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sor	24.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_sor	1.98907103825137	hour	NA	4.51351351351351	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sor	24.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_sor	4.54644808743169	hour	NA	5.43243243243243	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sor	24.0	SOF200	concentration	sorafenib	plasma	LC MS/MS	SOF200_sor	7.56284153005465	hour	NA	5.43243243243243	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_m2	24.0	SOF200	concentration	sorafenib_m2	plasma	LC MS/MS	SOF200_m2	0.0	hour	NA	1.40540540540541	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_m2	24.0	SOF200	concentration	sorafenib_m2	plasma	LC MS/MS	SOF200_m2	2.01092896174863	hour	NA	1.13513513513514	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_m2	24.0	SOF200	concentration	sorafenib_m2	plasma	LC MS/MS	SOF200_m2	4.54644808743169	hour	NA	1.2972972972973	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_m2	24.0	SOF200	concentration	sorafenib_m2	plasma	LC MS/MS	SOF200_m2	7.56284153005465	hour	NA	1.40540540540541	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	0.0218579234972678	hour	NA	1.51351351351351	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	2.01092896174863	hour	NA	1.45945945945946	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	4.52459016393443	hour	NA	1.51351351351351	NA	NA	NA	mg/L	NA
+Zimmerman2012	NA	SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	7.49726775956284	hour	NA	1.56756756756757	NA	NA	NA	mg/L	NA

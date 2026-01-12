@@ -1,0 +1,6 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Hussaarts2020	SOF200	1	15	day	oral	single dose	dosing	NR	sorafenib	200	mg	NA
+Hussaarts2020	SOF400	1	15	day	oral	single dose	dosing	NR	sorafenib	400	mg	NA
+Hussaarts2020	SOF600	1	15	day	oral	single dose	dosing	NR	sorafenib	600	mg	NA
+Hussaarts2020	SOF800	1	15	day	oral	single dose	dosing	NR	sorafenib	800	mg	NA
+Hussaarts2020	PROB500	2	15	day	oral	multiple dose	dosing	NR	sorafenib	500	mg	NA

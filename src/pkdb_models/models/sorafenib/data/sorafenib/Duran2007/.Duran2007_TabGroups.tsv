@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Duran2007	all	17	NA	species	17	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	all	8	NA	sex	8	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	all	9	NA	sex	9	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	all	17	NA	healthy	17	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	all	17	NA	age	17	NA	NA	NA	56.0	NA	NA	30.0	77.0	yr	NA
+Duran2007	SOF_200_L1	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	SOF_400_L2	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	ERL_100_L1	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Duran2007	ERL_150_L2	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

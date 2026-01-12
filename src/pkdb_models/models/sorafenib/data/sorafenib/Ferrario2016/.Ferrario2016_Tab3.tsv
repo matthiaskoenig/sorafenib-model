@@ -1,0 +1,19 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	min	max	se	unit	comments
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	thalf	vinorelbine	plasma	LC MS/MS	NA	NA	NA	0.21	NA	NA	0.04	NA	NA	NA	hr	vinorelbine
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	cmax	vinorelbine	plasma	LC MS/MS	8.0	hr	NA	1301.0	NA	NA	553.0	NA	NA	NA	ng/mL	vinorelbine
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	auc_end	vinorelbine	plasma	LC MS/MS	NA	NA	NA	856.0	NA	NA	358.0	NA	NA	NA	hr*ng/mL	vinorelbine
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	thalf	vinorelbine	plasma	LC MS/MS	NA	NA	NA	0.19	NA	NA	0.04	NA	NA	NA	hr	vinorelbine, sorafenib
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	cmax	vinorelbine	plasma	LC MS/MS	NA	NA	NA	2039.0	NA	NA	383.0	NA	NA	NA	ng/mL	vinorelbine, sorafenib
+Ferrario2016	NA	SOF200_vim	6.0	SOF200,VIN30	auc_end	vinorelbine	plasma	LC MS/MS	8.0	hr	NA	1057.0	NA	NA	189.0	NA	NA	NA	hr*ng/mL	vinorelbine, sorafenib
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	1.67	NA	NA	1.29	NA	NA	NA	hr	sorafenib
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	9135.0	NA	NA	1624.0	NA	NA	NA	ng/mL	sorafenib
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	auc_end	sorafenib	plasma	LC MS/MS	8.0	hr	NA	44800.0	NA	NA	3839.0	NA	NA	NA	hr*ng/mL	sorafenib
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	thalf	sorafenib,	plasma	LC MS/MS	NA	NA	NA	2.67	NA	NA	2.04	NA	NA	NA	hr	sorafenib,vinorelbine
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	10502.0	NA	NA	3159.0	NA	NA	NA	ng/mL	sorafenib,vinorelbine
+Ferrario2016	NA	SOF200_sor	6.0	SOF200,VIN30	auc_end	sorafenib	plasma	LC MS/MS	8.0	hr	NA	55413.0	NA	NA	11234.0	NA	NA	NA	hr*ng/mL	sorafenib,vinorelbine
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	thalf	sorafenib_M2	plasma	LC MS/MS	NA	NA	NA	1.76	NA	NA	1.18	NA	NA	NA	hr	sorafenib
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	cmax	sorafenib_M2	plasma	LC MS/MS	NA	NA	NA	2224.0	NA	NA	988.0	NA	NA	NA	ng/mL	sorafenib
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	auc_end	sorafenib_M2	plasma	LC MS/MS	8.0	hr	NA	10662.0	NA	NA	4054.0	NA	NA	NA	hr*ng/mL	sorafenib
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	thalf	sorafenib_M2	plasma	LC MS/MS	NA	NA	NA	3.42	NA	NA	2.69	NA	NA	NA	hr	sorafenib,vinorelbine
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	cmax	sorafenib_M2	plasma	LC MS/MS	NA	NA	NA	2503.0	NA	NA	1352.0	NA	NA	NA	ng/mL	sorafenib,vinorelbine
+Ferrario2016	NA	SOF200_m2	6.0	SOF200,VIN30	auc_end	sorafenib_M2	plasma	LC MS/MS	8.0	hr	NA	12576.0	NA	NA	5461.0	NA	NA	NA	hr*ng/mL	sorafenib,vinorelbine

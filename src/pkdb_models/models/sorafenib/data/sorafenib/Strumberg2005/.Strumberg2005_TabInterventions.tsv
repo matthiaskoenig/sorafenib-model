@@ -1,0 +1,11 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Strumberg2005	SOF100_SD	1	7	day	oral	single dose	dosing	NR	sorafenib	100	mg	NA
+Strumberg2005	SOF200_SD	1	7	day	oral	single dose	dosing	NR	sorafenib	200	mg	NA
+Strumberg2005	SOF400_SD	1	7	day	oral	single dose	dosing	NR	sorafenib	400	mg	NA
+Strumberg2005	SOF600_SD	1	7	day	oral	single dose	dosing	NR	sorafenib	600	mg	NA
+Strumberg2005	SOF800_SD	1	7	day	oral	single dose	dosing	NR	sorafenib	800	mg	NA
+Strumberg2005	SOF100_MD	1	7	day	oral	multiple dose	dosing	NR	sorafenib	100	mg	NA
+Strumberg2005	SOF200_MD	1	7	day	oral	multiple dose	dosing	NR	sorafenib	200	mg	NA
+Strumberg2005	SOF400_MD	1	7	day	oral	multiple dose	dosing	NR	sorafenib	400	mg	NA
+Strumberg2005	SOF600_MD	1	7	day	oral	multiple dose	dosing	NR	sorafenib	600	mg	NA
+Strumberg2005	SOF800_MD	1	7	day	oral	multiple dose	dosing	NR	sorafenib	800	mg	NA

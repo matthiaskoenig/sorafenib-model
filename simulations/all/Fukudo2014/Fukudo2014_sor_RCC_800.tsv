@@ -1,0 +1,5 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Fukudo2014		RCC_800	5	SOF800	concentration	sorafenib	plasma	LC MS/MS	RCC_800	0.933333333333333	hr		0.00609545890306095	3.79756573687709	0.002074406244063118		Fig3a, renal cell carcinoma	mole/meter^3	ug/mL
+Fukudo2014		RCC_800	5	SOF800	concentration	sorafenib	plasma	LC MS/MS	RCC_800	2.71111111111111	hr		0.006886680598902298	4.29050916413768	0.0023436747687786822		Fig3a, renal cell carcinoma	mole/meter^3	ug/mL
+Fukudo2014		RCC_800	5	SOF800	concentration	sorafenib	plasma	LC MS/MS	RCC_800	6.48888888888889	hr		0.008169865147124061	6.03835619485967	0.004820708088580629		Fig3a, renal cell carcinoma	mole/meter^3	ug/mL
+Fukudo2014		RCC_800	5	SOF800	concentration	sorafenib	plasma	LC MS/MS	RCC_800	11.9111111111111	hr		0.00539514192727728	3.79756573687709	0.002774723219846759		Fig3a, renal cell carcinoma	mole/meter^3	ug/mL

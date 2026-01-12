@@ -1,0 +1,2295 @@
+{
+  "experiment_id": "RenalImpairmentExperiment",
+  "base_path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib",
+  "data_path": "[PosixPath('/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/data/sorafenib')]",
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "path": "/home/mariia/git/pkdb_models/pkdb_models/models/sorafenib/models/results/models/sorafenib_body_flat.xml",
+        "content": "None"
+      },
+      "changes": {}
+    }
+  },
+  "tasks": {
+    "task_sor_po_Normal renal function": {
+      "model": "model",
+      "simulation": "sor_po_Normal renal function"
+    },
+    "task_sor_po_Mild renal impairment": {
+      "model": "model",
+      "simulation": "sor_po_Mild renal impairment"
+    },
+    "task_sor_po_Moderate renal impairment": {
+      "model": "model",
+      "simulation": "sor_po_Moderate renal impairment"
+    },
+    "task_sor_po_Severe renal impairment": {
+      "model": "model",
+      "simulation": "sor_po_Severe renal impairment"
+    }
+  },
+  "simulations": {
+    "sor_po_Normal renal function": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            },
+            "KI__f_renal_function": {
+              "_magnitude": 1.0,
+              "_units": "dimensionless"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_Mild renal impairment": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            },
+            "KI__f_renal_function": {
+              "_magnitude": 0.6881188118811881,
+              "_units": "dimensionless"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_Moderate renal impairment": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            },
+            "KI__f_renal_function": {
+              "_magnitude": 0.3217821782178218,
+              "_units": "dimensionless"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    },
+    "sor_po_Severe renal impairment": {
+      "type": "TimecourseSim",
+      "selections": null,
+      "reset": true,
+      "time_offset": 0.0,
+      "timecourses": [
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "Ka_dis_sor": {
+              "_magnitude": 0.6380404886582229,
+              "_units": "per_hr"
+            },
+            "GU__F_sor_abs": {
+              "_magnitude": 0.5999999998431342,
+              "_units": "dimensionless"
+            },
+            "GU__SORABS_Vmax": {
+              "_magnitude": 0.0004564619167017758,
+              "_units": "GU__per_min"
+            },
+            "KI__SGEX_k": {
+              "_magnitude": 0.00100102340272109,
+              "_units": "KI__per_min"
+            },
+            "LI__SORIM_Vmax": {
+              "_magnitude": 0.01000000148281594,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2EX_Vmax": {
+              "_magnitude": 0.043035916104154845,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SGEX_Vmax": {
+              "_magnitude": 4.852607840633812,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__SOR2M2_Vmax": {
+              "_magnitude": 0.010000000008669747,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "LI__M2GLU_Vmax": {
+              "_magnitude": 0.021752867459769464,
+              "_units": "LI__mmole_per_min_l"
+            },
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            },
+            "KI__f_renal_function": {
+              "_magnitude": 0.19306930693069307,
+              "_units": "dimensionless"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        },
+        {
+          "start": 0,
+          "end": 1440,
+          "steps": 200,
+          "changes": {
+            "PODOSE_sor": {
+              "_magnitude": 200,
+              "_units": "milligram"
+            }
+          },
+          "model_changes": {},
+          "model_manipulations": {},
+          "discard": false
+        }
+      ]
+    }
+  },
+  "data": {
+    "task_sor_po_Normal renal function__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Normal renal function__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_Normal renal function",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Mild renal impairment__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_Mild renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Moderate renal impairment__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_Moderate renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__time": {
+      "type": "TASK",
+      "index": "time",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Cve_sor": {
+      "type": "TASK",
+      "index": "Cve_sor",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Cve_m2": {
+      "type": "TASK",
+      "index": "Cve_m2",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Cve_sg": {
+      "type": "TASK",
+      "index": "Cve_sg",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Afeces_sor": {
+      "type": "TASK",
+      "index": "Afeces_sor",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Aurine_sg": {
+      "type": "TASK",
+      "index": "Aurine_sg",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Afeces_sg": {
+      "type": "TASK",
+      "index": "Afeces_sg",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Cve_sg_sor": {
+      "type": "TASK",
+      "index": "Cve_sg_sor",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__Cve_m2_sor": {
+      "type": "TASK",
+      "index": "Cve_m2_sor",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__PODOSE_sor": {
+      "type": "TASK",
+      "index": "PODOSE_sor",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__f_cirrhosis": {
+      "type": "TASK",
+      "index": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    },
+    "task_sor_po_Severe renal impairment__KI__f_renal_function": {
+      "type": "TASK",
+      "index": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sor_po_Severe renal impairment",
+      "dataset": null,
+      "function": null,
+      "variables": null
+    }
+  },
+  "figures": {
+    "Fig_application": {
+      "sid": "Fig_application",
+      "name": null,
+      "num_rows": 2,
+      "num_cols": 3,
+      "width": 21.0,
+      "height": 10.0,
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot0_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot0_yaxis",
+              "name": "sorafenib (plasma) [\u00b5M]",
+              "label": "sorafenib (plasma)",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot0_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot0_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot0_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot0_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Cve_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot1_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot1_yaxis",
+              "name": "M2 (plasma) [\u00b5M]",
+              "label": "M2 (plasma)",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot1_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Cve_m2",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot1_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Cve_m2",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot1_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Cve_m2",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot1_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Cve_m2",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot2",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot2_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot2_yaxis",
+              "name": "SG (plasma) [\u00b5M]",
+              "label": "SG (plasma)",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot2_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Cve_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot2_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Cve_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot2_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Cve_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot2_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Cve_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 1,
+          "col": 3,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot3",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot3_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot3_yaxis",
+              "name": "sorafenib feces [\u00b5mole]",
+              "label": "sorafenib feces",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot3_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Afeces_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot3_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Afeces_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot3_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Afeces_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot3_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Afeces_sor",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 2,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot4",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot4_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot4_yaxis",
+              "name": "SG feces [\u00b5mole]",
+              "label": "SG feces",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot4_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Afeces_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot4_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Afeces_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot4_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Afeces_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot4_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Afeces_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 2,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig_application__plot5",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig_application__plot5_xaxis",
+              "name": "time [day]",
+              "label": "time",
+              "unit": "day",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig_application__plot5_yaxis",
+              "name": "SG urine [\u00b5mole]",
+              "label": "SG urine",
+              "unit": "\u00b5mole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig_application__plot5_curve0",
+                "name": "Normal renal function",
+                "x": "task_sor_po_Normal renal function__time",
+                "y": "task_sor_po_Normal renal function__Aurine_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig_application__plot5_curve1",
+                "name": "Mild renal impairment",
+                "x": "task_sor_po_Mild renal impairment__time",
+                "y": "task_sor_po_Mild renal impairment__Aurine_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#66c2a4ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#66c2a4ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#66c2a4ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig_application__plot5_curve2",
+                "name": "Moderate renal impairment",
+                "x": "task_sor_po_Moderate renal impairment__time",
+                "y": "task_sor_po_Moderate renal impairment__Aurine_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#2ca25fff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#2ca25fff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#2ca25fff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig_application__plot5_curve3",
+                "name": "Severe renal impairment",
+                "x": "task_sor_po_Severe renal impairment__time",
+                "y": "task_sor_po_Severe renal impairment__Aurine_sg",
+                "xerr": null,
+                "yerr": null,
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#006d2cff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#006d2cff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#006d2cff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": []
+          },
+          "row": 2,
+          "col": 3,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

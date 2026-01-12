@@ -1,0 +1,11 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Aboualfa2006	all	137.0	NA	species	137.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	all	97.0	NA	sex	97.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	all	40.0	NA	sex	40.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	all	137.0	NA	healthy	137.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	all	137.0	NA	age	137.0	NA	NA	NA	69.0	NA	NA	28.0	86.0	yr	NA
+Aboualfa2006	all	137.0	NA	disease	137.0	NA	hepatocellular carcinoma	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	CPT_A_all	96.0	all	child-pugh score	96.0	NA	child-pugh class A	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	CPT_B_all	38.0	all	child-pugh score	38.0	NA	child-pugh class B	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	CPT_A	14.0	CPT_A_all	child-pugh score	14.0	NA	child-pugh class A	NA	NA	NA	NA	NA	NA	NA	NA
+Aboualfa2006	CPT_B	8.0	CPT_B_all	child-pugh score	8.0	NA	child-pugh class B	NA	NA	NA	NA	NA	NA	NA	NA

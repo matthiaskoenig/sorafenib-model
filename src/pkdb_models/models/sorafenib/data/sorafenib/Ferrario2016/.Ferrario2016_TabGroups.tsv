@@ -1,0 +1,7 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Ferrario2016	all	27	NA	species	27	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ferrario2016	all	27	NA	sex	27	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Ferrario2016	all	27	NA	healthy	27	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Ferrario2016	all	27	NA	age	27	NA	NA	NA	57.0	NA	NA	35.0	71.0	yr	NA
+Ferrario2016	SOF200	6	all	species	6	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ferrario2016	SOF400	21	all	species	21	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

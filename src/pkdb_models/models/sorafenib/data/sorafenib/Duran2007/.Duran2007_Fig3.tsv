@@ -1,0 +1,9 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	sd	unit	comments
+Duran2007	NA	ERL_100_L1	3.0	ERL100	concentration	erlotinib	plasma	LC MS/MS	ERL_100_L1	15.0165745856354	day	387.001477104874	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_100_L1	3.0	ERL100	concentration	erlotinib	plasma	LC MS/MS	ERL_100_L1	15.9889502762431	day	567.208271787297	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_100_L1	3.0	ERL100	concentration	erlotinib	plasma	LC MS/MS	ERL_100_L1	22.0	day	802.067946824225	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_100_L1	3.0	ERL100	concentration	erlotinib	plasma	LC MS/MS	ERL_100_L1	28.9834254143646	day	754.80059084195	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_150_L2	3.0	ERL150	concentration	erlotinib	plasma	LC MS/MS	ERL_150_L2	14.9723756906077	day	288.035450516987	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_150_L2	3.0	ERL150	concentration	erlotinib	plasma	LC MS/MS	ERL_150_L2	16.0552486187845	day	301.329394387001	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_150_L2	3.0	ERL150	concentration	erlotinib	plasma	LC MS/MS	ERL_150_L2	21.9779005524862	day	367.799113737075	NA	NA	ng/ml	NA
+Duran2007	NA	ERL_150_L2	3.0	ERL150	concentration	erlotinib	plasma	LC MS/MS	ERL_150_L2	28.9834254143646	day	487.444608567208	NA	NA	ng/ml	NA

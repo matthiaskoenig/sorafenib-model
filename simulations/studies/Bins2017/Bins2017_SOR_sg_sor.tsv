@@ -1,0 +1,5 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Bins2017		all	8.0	SOR200	concentration	sorafenib-m2-glucuronide/sorafenib	plasma	LC MS/MS	SOR_sg_sor	0.0372093023255814	hour		0.522935779816514	0.761467889908257			4c	dimensionless	ng/mL
+Bins2017		all	8.0	SOR200	concentration	sorafenib-m2-glucuronide/sorafenib	plasma	LC MS/MS	SOR_sg_sor	2.08372093023256	hour		0.458715596330275	0.63302752293578				dimensionless	ng/mL
+Bins2017		all	8.0	SOR200	concentration	sorafenib-m2-glucuronide/sorafenib	plasma	LC MS/MS	SOR_sg_sor	4.61395348837209	hour		0.697247706422018	0.972477064220183				dimensionless	ng/mL
+Bins2017		all	8.0	SOR200	concentration	sorafenib-m2-glucuronide/sorafenib	plasma	LC MS/MS	SOR_sg_sor	7.55348837209302	hour		0.688073394495413	0.990825688073394				dimensionless	ng/mL

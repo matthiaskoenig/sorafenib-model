@@ -1,0 +1,9 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Huang2017	all	25	NA	species	25	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Huang2017	all	25	NA	sex	25	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Huang2017	all	25	NA	healthy	25	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Huang2017	all	25	NA	age	25	NA	NA	NA	NA	NA	NA	18.0	45.0	yr	NA
+Huang2017	all	25	NA	weight	25	NA	NA	NA	NA	NA	NA	65.0	NA	kg	NA
+Huang2017	all	25	NA	bmi	25	NA	NA	NA	NA	NA	NA	18.5	30.0	kg/m^2	NA
+Huang2017	SOF400_P1	12	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Huang2017	LEV300_P1	13	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

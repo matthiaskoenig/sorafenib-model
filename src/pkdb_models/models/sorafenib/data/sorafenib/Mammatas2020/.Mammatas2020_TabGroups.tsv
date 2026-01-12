@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Mammatas2020	all	17	NA	species	17	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Mammatas2020	all	17	NA	sex	7	NA	M	NA	NA	NA	NA	NA	7.0	NA	NA
+Mammatas2020	all	17	NA	sex	17	NA	F	NA	NA	NA	NA	NA	10.0	NA	NA
+Mammatas2020	all	17	NA	healthy	17	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Mammatas2020	all	17	NA	age	17	NA	NA	NA	NA	NA	NA	26.0	74.0	yr	NA
+Mammatas2020	SOF_1000	3	all	species	3	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Mammatas2020	SOF_2000	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Mammatas2020	SOF_2400	3	all	species	3	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Mammatas2020	SOF_2800	3	all	species	3	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

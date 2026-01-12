@@ -1,0 +1,60 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sorafenib-model"
+version = "0.8.0"
+description = "Python utilities for computational models in SBML."
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [
+    {name="Frances Okibedi", email=""},
+    {name="Mariia Myshkina", email="mariia.myshkina@hu-berlin.de"},
+	{name="Matthias König", email="konigmatt@googlemail.com"},
+]
+maintainers = [
+	{name="Matthias König", email="konigmatt@googlemail.com"}
+]
+classifiers = [
+	"Development Status :: 5 - Production/Stable",
+	"Intended Audience :: Science/Research",
+	"License :: OSI Approved :: MIT License",
+	"Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+	"Programming Language :: Python :: Implementation :: CPython",
+	"Topic :: Scientific/Engineering",
+	"Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+keywords = [
+    "SBML",
+    "physiologically based pharmacokinetic model",
+    "hepatocellular carcinoma",
+    "PBPK",
+    "sorafenib",
+    "computational modeling",
+]
+dependencies = [
+    "sbmlutils>=0.9.6",
+    "sbmlsim @ git+https://github.com/matthiaskoenig/sbmlsim.git@abc487cc1e068b30019700a8b3d2c4e8b38f55c3"
+]
+
+[project.scripts]
+create_nodes = "pkdb_data.management.commands:create_info_nodes_command"
+run_sorafenib = "pkdb_models.models.sorafenib.run_sorafenib:main"
+fit_sorafenib = "pkdb_models.models.sorafenib.fitting.fitting:main"
+
+[project_urls]
+Homepage = "https://github.com/matthiaskoenig/sorafenib-model"
+Repository = "https://github.com/matthiaskoenig/sorafenib-model"
+Documentation = "https://github.com/matthiaskoenig/sorafenib-model"
+Issues = "https://github.com/matthiaskoenig/sorafenib-model/issues"
+# Download = "https://pypi.org/project/pkdb_models"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pkdb_models"]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+

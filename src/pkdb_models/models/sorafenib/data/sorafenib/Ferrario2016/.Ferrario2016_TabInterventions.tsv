@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Ferrario2016	SOF200	4	12	day	oral	multiple dose	dosing	NR	sorafenib	200	mg	NA
+Ferrario2016	SOF400	4	12	day	oral	multiple dose	dosing	NR	sorafenib	400	mg	NA
+Ferrario2016	VIN30	0	12	day	iv	multiple dose	dosing	NR	vinorelbine	30	mg/m^2	NA

@@ -1,0 +1,85 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	min	max	se	unit	comments
+Navid2013	SOF_ST1	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	4.5	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	3.55	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	8.0	hr	14.2	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	24.0	hr	31.1	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	5.94	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	6.58	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST1	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	ND	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	4.5	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	1.87	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	8.0	hr	10.7	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	24.0	hr	28.8	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	3.18	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	2.53	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST2	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	ND	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	2	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	1.32	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	6.1	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	14	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	2.3	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	2.39	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST3	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	1.47	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	6	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	0.69	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	2	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	10.8	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	2.96	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	2.38	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST4	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	2.68	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	4.5	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	0.72	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	3.7	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	12.8	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	6.34	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	0	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST5	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	4.86	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	tmax	sorafenib	plasma	LC MS/MS	NA	NA	4.5	4.33	NA	NA	1.29	NA	NA	NA	hr	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	cmax	sorafenib	plasma	LC MS/MS	NA	NA	1.45	1.56	NA	NA	0.98	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	6.5	7.2	NA	NA	4.5	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	17.6	19.2	NA	NA	8.7	NA	NA	NA	mg*h/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	1.17	3.65	NA	NA	2.06	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	1.07	3.26	NA	NA	1.86	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_ST6	NA	1.0	SOF90	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	NA	2.52	NA	NA	1.70i'	NA	NA	NA	mg/L	solid tumour 
+Navid2013	SOF_LK1	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	2	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	4.77	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	23.6	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	44.8	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	3.13	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK1	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	8	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	2.57	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	11.5	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	48.3	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	7.47	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK2	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	8	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	1.67	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	9	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	28.2	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	5.17	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK3	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	8	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	1.79	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	8.4	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	27.-	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	4.94	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK4	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	na	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	8	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	0.72	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	1.1	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	8.7	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	6.37	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK5	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	6	6.67	NA	NA	2.42	NA	NA	NA	hr	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	2.43	2.32	NA	NA	1.37	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	auc_8h	sorafenib	plasma	LC MS/MS	NA	NA	14	11.3	NA	NA	7.4	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	auc_24h	sorafenib	plasma	LC MS/MS	NA	NA	42.3	33.2	NA	NA	14.9	NA	NA	NA	mg*h/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	Css_7	sorafenib	plasma	LC MS/MS	NA	NA	5.53	5.43	NA	NA	1.46	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	Css_13	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia
+Navid2013	SOF_LK6	NA	1.0	SOF200	Css_21	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mg/L	Leukemia

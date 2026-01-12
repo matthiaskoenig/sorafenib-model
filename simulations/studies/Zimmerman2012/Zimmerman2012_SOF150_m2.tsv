@@ -1,0 +1,5 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Zimmerman2012		SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	0.0	hour		0.006090055900302585					mole/meter^3	mg/L
+Zimmerman2012		SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	1.99457994579946	hour		0.0061541617518846995					mole/meter^3	mg/L
+Zimmerman2012		SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	4.53116531165312	hour		0.00583363249397405					mole/meter^3	mg/L
+Zimmerman2012		SOF150_m2	6.0	SOF150	concentration	sorafenib_m2	plasma	LC MS/MS	SOF150_m2	7.54471544715447	hour		0.006923431970870303					mole/meter^3	mg/L

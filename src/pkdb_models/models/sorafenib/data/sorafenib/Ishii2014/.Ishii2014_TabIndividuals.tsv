@@ -1,0 +1,5 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Ishii2014	SOF_200	NA	NA	species	1	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Ishii2014	SOF_200	NA	NA	sex	1	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Ishii2014	SOF_200	NA	NA	healthy	1	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Ishii2014	SOF_200	NA	NA	age	1	NA	NA	NA	NA	NA	NA	NA	63.0	yr	NA

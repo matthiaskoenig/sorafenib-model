@@ -1,0 +1,13 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Hussaarts2020	all	16	NA	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	all	16	NA	sex	14	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	all	16	NA	sex	2	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	all	16	NA	healthy	16	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	all	16	NA	age	16	NA	NA	NA	66.5	NA	NA	18.0	75.0	yr	NA
+Hussaarts2020	all	16	NA	bmi	16	NA	NA	NA	25.2	NA	NA	22.0	30.0	kg/m^2	NA
+Hussaarts2020	all	16	NA	overnight fast	16	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	SOF_200	1	all	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	SOF_400	10	all	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	SOF_600	2	all	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	SOF_800	3	all	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Hussaarts2020	PROB_500	16	all	species	16	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,13 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	0.18721761	hour		0.00010961353280582407		0.003957062857929633		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	2.2335606	hour		0.0023018841458954525				week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	4.1821423	hour		0.00372119545808539				week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	5.9636755	hour		0.008451571770942244		0.012090769449213251		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	8.307455	hour		0.014611880574666645		0.023272835426589724		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	9.10841	hour		0.008868783157568637		0.010523607758602138		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	10.023142	hour		0.007096555700412625		0.00847416022339542		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	11.2287855	hour		0.007859602087662908		0.010120840916816183		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	12.4451065	hour		0.010608437565884865		0.015960806839548557		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	14.51933	hour		0.018205053073623245		0.02653645880393953		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	20.22223	hour		0.013086354894089398		0.019594269683709597		week1	mole/meter^3	µg/L
+Mammatas2020		SOF_1000	3.0	SOF1000	concentration	sorafenib	plasma	LC MS/MS	SOF_1000	68.127754	hour		0.0012454023656163808				week1	mole/meter^3	µg/L

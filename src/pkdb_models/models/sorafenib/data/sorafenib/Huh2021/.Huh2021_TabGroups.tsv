@@ -1,0 +1,16 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Huh2021	all	32	NA	species	32	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Huh2021	all	32	NA	sex	32	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Huh2021	all	32	NA	healthy	32	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Huh2021	all	32	NA	age	32	NA	NA	NA	NA	NA	NA	19.0	50.0	yr	NA
+Huh2021	all	32	NA	age	32	NA	NA	NA	NA	NA	NA	19.0	50.0	yr	NA
+Huh2021	all	32	NA	bmi	32	NA	NA	NA	NA	NA	NA	18.0	27.0	kg/m^2	NA
+Huh2021	all	32	NA	overnight fast	32	NA	Y	NA	NA	NA	NA	NA	NA	NA	NA
+Huh2021	SOF200_P1	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 1 of 2x2 crossover
+Huh2021	SYO100_P1	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 1 of 2x2 crossover
+Huh2021	SYO150_P1	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 1 of 2x2 crossover
+Huh2021	SYO200_P1	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 1 of 2x2 crossover
+Huh2021	SOF200_P2	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 2 of 2x2 crossover
+Huh2021	SYO100_P2	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 2 of 2x2 crossover
+Huh2021	SYO150_P2	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 2 of 2x2 crossover
+Huh2021	SYO200_P2	8	all	species	8	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	Period 2 of 2x2 crossover

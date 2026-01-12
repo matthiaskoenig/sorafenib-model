@@ -1,0 +1,12 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Awada2005	all	44	NA	species	44	NA	homo sapiens	NA	NA	NA	NA	NA	25.0	NA	NA
+Awada2005	all	25	NA	sex	25	NA	M	NA	NA	NA	NA	NA	19.0	NA	NA
+Awada2005	all	19	NA	sex	19	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	all	44	NA	healthy	44	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	all	44	NA	age	44	NA	NA	58.0	NA	NA	NA	42.0	79.0	yr	NA
+Awada2005	SOF100	4	all	species	4	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	SOF200	3	all	species	3	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	SOF300	5	all	species	5	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	SOF400	10	all	species	10	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	SOF600	12	all	species	12	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Awada2005	SOF800	2	all	species	2	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA

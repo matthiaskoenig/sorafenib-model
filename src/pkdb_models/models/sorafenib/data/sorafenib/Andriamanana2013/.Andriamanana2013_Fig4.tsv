@@ -1,0 +1,16 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	sd	se	unit	comments
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	0.0	hour	50.887943	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	0.4915247	hour	234.55548	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	0.999387	hour	424.79135	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	1.9871436	hour	745.52856	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	4.0029135	hour	835.2034	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	6.0117464	hour	852.88165	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	8.007103	hour	1141.1514	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	9.000714	hour	633.9381	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SOF400	1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400	12.064025	hour	136.99518	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	0.0	hour	26.980309	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	6.091829	hour	76.223236	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	10.0119915	hour	61.192955	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	11.906168	hour	49.532845	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	18.054306	hour	36.409462	NA	NA	ng/mL	NA
+Andriamanana2013	NA	SUN50	1.0	SUN50	concentration	sunitinib	plasma	LC MS/MS	SUN50	24.044289	hour	30.611303	NA	NA	ng/mL	NA

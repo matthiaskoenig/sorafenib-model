@@ -1,0 +1,6 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	mean_sd	mean_se	wlow	q25	median	q75	wup	dose	dose_unit	comments	mean_unit	median_unit
+Hornecker2012		SOF400	88.0	SOF400	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr				7.673796	36.503273	49.411434	73.07854	124.7123	400.0	mg	unclear which period was used for calculation: 12 or 24 hr	mg/l*hr	mg/l*hr
+Hornecker2012		SOF800	187.0	SOF800	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr				13.624755	45.466267	61.818428	91.50625	158.20299	800.0	mg	unclear which period was used for calculation: 12 or 24 hr	mg/l*hr	mg/l*hr
+Hornecker2012		SOF1200	35.0	SOF1200	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr				37.217075	51.847515	73.36205	109.07674	166.30484	1200.0	mg	unclear which period was used for calculation: 12 or 24 hr	mg/l*hr	mg/l*hr
+Hornecker2012		SOF1600	38.0	SOF1600	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr				23.37522	45.320602	77.16211	112.01454	182.15305	1600.0	mg	unclear which period was used for calculation: 12 or 24 hr	mg/l*hr	mg/l*hr
+Hornecker2012		SOF2000	24.0	SOF2000	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr				46.538364	76.65816	90.85831	109.790535	147.22694	2000.0	mg	Either 2000 or 2400 mg; unclear which period was used for calculation: 12 or 24 hr 	mg/l*hr	mg/l*hr

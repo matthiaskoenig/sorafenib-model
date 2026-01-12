@@ -1,0 +1,16 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	time	time_unit	mean	sd	se	wlow	q25	median	q75	wup	unit	dose	dose_unit	comments
+Hornecker2012	NA	SOF400	88.0	SOF400	bioavailability	sorafenib 	plasma	LC MS/MS	NA	NA	NA	NA	NA	0.2641716	0.4388498	0.50354713	0.56436104	0.6342306	dimensionless	400.0	mg	NA
+Hornecker2012	NA	SOF800	187.0	SOF800	bioavailability	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	0.13759339	0.27216032	0.31615505	0.36791494	0.4960055	dimensionless	800.0	mg	NA
+Hornecker2012	NA	SOF1200	35.0	SOF1200	bioavailability	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	0.17405158	0.20769331	0.25297856	0.30214894	0.39142722	dimensionless	1200.0	mg	NA
+Hornecker2012	NA	SOF1600	38.0	SOF1600	bioavailability	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	0.0992282	0.1509864	0.20533073	0.24156198	0.290729	dimensionless	1600.0	mg	NA
+Hornecker2012	NA	SOF2000	24.0	SOF2000	bioavailability	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	0.07228298	0.11239088	0.14086035	0.19520469	0.2482534	dimensionless	2000.0	mg	Either 2000 or 2400 mg
+Hornecker2012	NA	SOF400	88.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	1.5802469	1.962963	2.3580246	2.8024693	3.6049383	hr	400.0	mg	NA
+Hornecker2012	NA	SOF800	187.0	SOF800	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.2592592	3.2469137	3.728395	4.185185	5.308642	hr	800.0	mg	NA
+Hornecker2012	NA	SOF1200	35.0	SOF1200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	3.1234567	3.9135802	4.4074073	4.9753084	5.419753	hr	1200.0	mg	NA
+Hornecker2012	NA	SOF1600	38.0	SOF1600	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	3.9753087	4.5308642	5.0	5.8271604	6.9135804	hr	1600.0	mg	NA
+Hornecker2012	NA	SOF2000	24.0	SOF2000	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.419753	5.111111	5.654321	6.5555553	7.728395	hr	2000.0	mg	Either 2000 or 2400 mg
+Hornecker2012	NA	SOF400	88.0	SOF400	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr	NA	NA	NA	7.673796	36.503273	49.411434	73.07854	124.7123	mg/l*hr	400.0	mg	unclear which period was used for calculation: 12 or 24 hr
+Hornecker2012	NA	SOF800	187.0	SOF800	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr	NA	NA	NA	13.624755	45.466267	61.818428	91.50625	158.20299	mg/l*hr	800.0	mg	unclear which period was used for calculation: 12 or 24 hr
+Hornecker2012	NA	SOF1200	35.0	SOF1200	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr	NA	NA	NA	37.217075	51.847515	73.36205	109.07674	166.30484	mg/l*hr	1200.0	mg	unclear which period was used for calculation: 12 or 24 hr
+Hornecker2012	NA	SOF1600	38.0	SOF1600	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr	NA	NA	NA	23.37522	45.320602	77.16211	112.01454	182.15305	mg/l*hr	1600.0	mg	unclear which period was used for calculation: 12 or 24 hr
+Hornecker2012	NA	SOF2000	24.0	SOF2000	auc_end	sorafenib	plasma	LC MS/MS	24.0	hr	NA	NA	NA	46.538364	76.65816	90.85831	109.790535	147.22694	mg/l*hr	2000.0	mg	Either 2000 or 2400 mg; unclear which period was used for calculation: 12 or 24 hr 

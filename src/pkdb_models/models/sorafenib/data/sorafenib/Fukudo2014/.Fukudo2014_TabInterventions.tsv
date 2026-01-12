@@ -1,0 +1,4 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Fukudo2014	SOF200	0	NA	day	oral	multiple dose	dosing	NR	sorafenib	400	mg	NA
+Fukudo2014	SOF400	0	NA	day	oral	multiple dose	dosing	NR	sorafenib	800	mg	NA
+Fukudo2014	SOF800	S-168T12R15	NA	day	oral	multiple dose	dosing	NR	sorafenib	400	mg	800 mg b.i.d, 400mg every 12 hours

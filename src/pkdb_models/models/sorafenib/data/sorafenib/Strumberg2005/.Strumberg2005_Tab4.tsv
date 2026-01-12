@@ -1,0 +1,25 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	min	max	se	ci	ci_unit	unit	comments
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	83.8	NA	NA	NA	NA	NA	NA	18.0	percent	mg/L*hr	fasting
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	2.69	NA	NA	NA	NA	NA	NA	39.0	percent	mg/L	fasting
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	3.4	NA	2.6	8.1	NA	NA	NA	hr	fasting
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	28.9	NA	NA	NA	NA	NA	NA	20.0	percent	hr	fasting
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	49.8	NA	NA	NA	NA	NA	NA	58.0	percent	mg/L*hr	fed
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	1.98	NA	NA	NA	NA	NA	NA	69.0	percent	mg/L	fed
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	7.9	NA	3.0	8.2	NA	NA	NA	hr	fed
+Strumberg2005	NA	SOF_100_SD	3.0	SOF100	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	37.9	NA	NA	NA	NA	NA	NA	2.0	percent	hr	fed
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	31.9	NA	NA	NA	NA	NA	NA	12.0	percent	mg/L*hr	fasting
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	1.08	NA	NA	NA	NA	NA	NA	7.0	percent	mg/L	fasting
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.1	NA	1.5	2.5	NA	NA	NA	hr	fasting
+Strumberg2005	NA	SOF_200_SD	NA	SOF200	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	29.5	NA	NA	NA	NA	NA	NA	77.0	percent	hr	fasting
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	47.6	NA	NA	NA	NA	NA	NA	41.0	percent	mg/L*hr	fed
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	1.52	NA	NA	NA	2.7	6.2	NA	84.0	percent	mg/L	fed
+Strumberg2005	NA	SOF_200_SD	3.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.3	NA	NA	NA	NA	NA	NA	hr	fed
+Strumberg2005	NA	SOF_200_SD	7.0	SOF200	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	31.8	NA	NA	NA	NA	NA	NA	36.0	percent	hr	fed
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	107.0	NA	NA	NA	NA	NA	NA	15.0	percent	mg/L*hr	fasting
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	3.42	NA	NA	NA	NA	NA	NA	13.0	percent	mg/L	fasting
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.5	NA	1.5	2.6	NA	NA	NA	hr	fasting
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	23.8	NA	NA	NA	NA	NA	NA	5.0	percent	hr	fasting
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	auc measurement	sorafenib	plasma	LC MS/MS	NA	NA	NA	82.3	NA	NA	NA	NA	NA	NA	18.0	percent	mg/L*hr	fed
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	2.44	NA	NA	NA	NA	NA	NA	26.0	percent	mg/L	fed
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	6.0	NA	1.0	12.0	NA	NA	NA	hr	fed
+Strumberg2005	NA	SOF_400_SD	3.0	SOF400	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	28.1	NA	NA	NA	NA	NA	NA	26.0	percent	hr	fed

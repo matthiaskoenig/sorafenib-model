@@ -1,0 +1,10 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	0.958717679074113	hour		4.123951339091444e-05				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	1.4718218061345	hour		8.414272353231724e-05				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	1.95863272999962	hour		0.00030642269240827307				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	2.48558648548103	hour		0.0004389134518108582				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	2.97204589593445	hour		0.0005715554563725823				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	3.97073064991901	hour		0.0005230057602901235				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	5.96915469812321	hour		0.0006948202610679091				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	7.96705147620987	hour		0.0007321778153743506				single dose	mole/meter^3	mg/L
+Strumberg2005		SOF100_SD	6.0	SOF100	concentration	sorafenib	plasma	LC MS/MS	SOF100_SD	11.9619662488539	hour		0.0005827980132016452				single dose	mole/meter^3	mg/L

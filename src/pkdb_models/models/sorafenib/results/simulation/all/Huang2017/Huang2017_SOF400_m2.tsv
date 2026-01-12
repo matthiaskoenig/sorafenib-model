@@ -1,0 +1,14 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	mean	mean_pm	mean_sd	comments	mean_unit
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	2.36521739130435	hour	0.00011930598007022009	262.275449101796	0.000502789487438783	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	4.03478260869565	hour	0.00046870206456157954	697.005988023952	0.0011845379449828984	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	4.7304347826087	hour	0.0007073140247020183	1023.95209580838	0.0017214148552988822	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	5.84347826086957	hour	0.0008777511390880478	966.467065868264	0.001414628049404039	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	7.79130434782609	hour	0.0004601802088422769	402.395209580838	0.0004942676317194829	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	9.46086956521739	hour	0.0004942676317194829	517.365269461078	0.0007328795918599239	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	13.9130434782609	hour	0.000681748457544115	783.233532934132	0.0011760160892635978	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	17.5304347826087	hour	0.0005283550545966886	546.107784431138	0.0007669670147371298	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	25.4608695652174	hour	0.00047722392028087986	538.922155688623	0.0008010544376143357	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	37.1478260869565	hour	0.00035791794021065935	395.209580838323	0.0005794861889124974	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	49.2521739130435	hour	0.0002130463929825358	244.311377245509	0.00036643979592996195	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	72.7652173913044	hour	0.00011078412435091862	140.119760479042	0.00022156824870183745	geometric mean and geometric SD	mole/meter^3
+Huang2017		SOF400_P1	22.0	SOF400	concentration	sorafenib-M2	plasma	LC MS/MS	SOF400_m2	95.8608695652174	hour	7.669670147371298e-05	75.4491017964072	0.00010226226863161715	geometric mean and geometric SD	mole/meter^3

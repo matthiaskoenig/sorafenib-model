@@ -1,0 +1,5 @@
+study	name	time	time_end	time_unit	route	application	measurement_type	form	substance	value	unit	comments
+Mammatas2020	SOF1000	1	3	week	oral	single dose	dosing	NR	sorafenib	1000	mg	NA
+Mammatas2020	SOF2000	1	3	week	oral	single dose	dosing	NR	sorafenib	2000	mg	NA
+Mammatas2020	SOF2400	1	3	week	oral	single dose	dosing	NR	sorafenib	2400	mg	NA
+Mammatas2020	SOF2800	1	3	week	oral	single dose	dosing	NR	sorafenib	2800	mg	NA

@@ -1,0 +1,17 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	time	time_unit	value	mean	mean_pm	median	sd	min	max	se	unit	comments
+Huh2021	NA	SYO100_P1	7.0	SYO100	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	3015.8	NA	NA	1076.7	NA	NA	NA	μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO100_P1	7.0	SYO100	auc_end	sorafenib	plasma	LC MS/MS	168.0	hr	NA	55676.6	NA	NA	13708.3	NA	NA	NA	hr*μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO100_P1	7.0	SYO100	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.0	NA	2.0	10.0	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SYO100_P1	7.0	SYO100	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	20.9	NA	NA	4.2	NA	NA	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SYO150_P1	7.0	SYO150	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	4899.4	NA	NA	2521.8	NA	NA	NA	μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO150_P1	7.0	SYO150	auc_end	sorafenib	plasma	LC MS/MS	168.0	hr	NA	89241.2	NA	NA	30037.6	NA	NA	NA	hr*μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO150_P1	7.0	SYO150	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.0	NA	2.0	4.0	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SYO150_P1	7.0	SYO150	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	24.7	NA	NA	8.6	NA	NA	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SYO200_P1	8.0	SYO200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	5037.5	NA	NA	1437.8	NA	NA	NA	μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO200_P1	8.0	SYO200	auc_end	sorafenib	plasma	LC MS/MS	168.0	hr	NA	105312.9	NA	NA	21297.7	NA	NA	NA	hr*μg/L	unclear which period, probably period 1
+Huh2021	NA	SYO200_P1	8.0	SYO200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	2.0	NA	2.0	10.0	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SYO200_P1	8.0	SYO200	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	24.4	NA	NA	7.2	NA	NA	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SOF200_P1	8.0	SOF200	cmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	2953.4	NA	NA	848.1	NA	NA	NA	μg/L	unclear which period, probably period 1
+Huh2021	NA	SOF200_P1	8.0	SOF200	auc_end	sorafenib	plasma	LC MS/MS	168.0	hr	NA	73730.1	NA	NA	28864.1	NA	NA	NA	hr*μg/L	unclear which period, probably period 1
+Huh2021	NA	SOF200_P1	8.0	SOF200	tmax	sorafenib	plasma	LC MS/MS	NA	NA	NA	NA	NA	4.0	NA	3.0	10.0	NA	hr	unclear which period, probably period 1
+Huh2021	NA	SOF200_P1	8.0	SOF200	thalf	sorafenib	plasma	LC MS/MS	NA	NA	NA	22.2	NA	NA	5.1	NA	NA	NA	hr	unclear which period, probably period 1

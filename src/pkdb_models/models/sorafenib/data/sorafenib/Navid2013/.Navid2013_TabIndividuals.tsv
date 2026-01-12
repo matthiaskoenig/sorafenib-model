@@ -1,0 +1,10 @@
+study	name	group_count	parent	measurement_type	count	substance	choice	mean	median	sd	se	min	max	unit	comments
+Navid2013	SOF_ST_LK	NA	NA	species	6.0	NA	homo sapiens	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_ST	NA	NA	sex	3.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_ST	NA	NA	sex	3.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_ST	NA	NA	healthy	6.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_ST	NA	NA	age	NA	NA	NA	NA	NA	NA	NA	0.0	12.0	yr	NA
+Navid2013	SOF_LK	NA	NA	sex	2.0	NA	M	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_LK	NA	NA	sex	4.0	NA	F	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_LK	NA	NA	healthy	6.0	NA	N	NA	NA	NA	NA	NA	NA	NA	NA
+Navid2013	SOF_LK	NA	NA	age	NA	NA	NA	NA	NA	NA	NA	0.0	12.0	yr	NA

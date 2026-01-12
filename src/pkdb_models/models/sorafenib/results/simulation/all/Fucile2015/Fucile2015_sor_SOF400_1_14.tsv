@@ -1,0 +1,3 @@
+study	individual	group	count	intervention	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	month	mean_unit	value_unit
+Fucile2015	1.0		1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_1_14	0.0	hr	0.01199633449600207					Month 14	14.0	ug/ml	mole/meter^3
+Fucile2015	1.0		1.0	SOF400	concentration	sorafenib	plasma	LC MS/MS	SOF400_1_14	3.0	hr	0.00431868041856075					Month 14	14.0	ug/ml	mole/meter^3

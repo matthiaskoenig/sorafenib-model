@@ -1,0 +1,5 @@
+study	individual	group	count	interventions	measurement_type	substance	tissue	method	label	time	time_unit	value	mean	mean_pm	mean_sd	mean_se	comments	mean_unit	value_unit
+Zimmerman2012		SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	0.0218579234972678	hour		0.003202525420045514					mole/meter^3	mg/L
+Zimmerman2012		SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	2.01092896174863	hour		0.003088149512186754					mole/meter^3	mg/L
+Zimmerman2012		SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	4.52459016393443	hour		0.003202525420045514					mole/meter^3	mg/L
+Zimmerman2012		SOF200_sg	24.0	SOF200	concentration	sorafenib_sg	plasma	LC MS/MS	SOF200_sg	7.49726775956284	hour		0.003316901327904295					mole/meter^3	mg/L
