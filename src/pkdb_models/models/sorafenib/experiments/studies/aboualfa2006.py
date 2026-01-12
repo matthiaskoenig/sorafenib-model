@@ -92,14 +92,14 @@ class Aboualfa2006(SorafenibSimulationExperiment):
             observable=FitData(
                 self, task=f"task_sor_po400_{key}", xid="time", yid="[Cve_sor]",
             ),
-              metadata=SorafenibMappingMetaData(
-                  tissue=Tissue.PLASMA,
-                  route=Route.PO,
-                  dosing=Dosing.MULTIPLE,
-                  health=Health.LIVER_IMPAIRMENT,
-                  fasting=Fasting.FASTING,
-                  data=PKPDData.PK
-              ),
+              # metadata=SorafenibMappingMetaData(
+              #     tissue=Tissue.PLASMA,
+              #     route=Route.PO,
+              #     dosing=Dosing.MULTIPLE,
+              #     health=Health.LIVER_IMPAIRMENT,
+              #     fasting=Fasting.FASTING,
+              #     data=PKPDData.PK
+              # ),
         )
         return mappings
 
