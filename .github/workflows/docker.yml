@@ -25,4 +25,4 @@ jobs:
         run: docker buildx build --load -t cicd:latest .
 
       - name: Run command in container
-        run: docker run --rm cicd:latest run_losartan -a all -r /results
+        run: docker run --rm cicd:latest run_sorafenib -a all -r /results

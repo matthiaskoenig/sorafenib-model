@@ -30,4 +30,4 @@ jobs:
       run: uv sync
 
     - name: Run workflow
-      run: uv run run_losartan -a all -r results
+      run: uv run run_sorafenib -a all -r results
